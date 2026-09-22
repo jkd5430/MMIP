@@ -11,7 +11,7 @@ import time
 from matplotlib import pyplot as plt
 # %%
 # 第一題
-img_path = r"C:\Users\u1021\Downloads\MMIP\week1\data\00d068ac58deb9599a557d85bf024065.jpg"
+img_path = "./week1/data/00d068ac58deb9599a557d85bf024065.jpg"
 img = cv2.imread(img_path)
 numpy_times = []
 opencv_times = []
@@ -140,7 +140,7 @@ print("cv_Time")
 
 # %%
 #題目三 梯形轉換 需要自己點
-img_path = r"C:\Users\u1021\Downloads\MMIP\week1\data\IMG_20200204_112217.jpg"
+img_path = "./week1/data/IMG_20200204_112217.jpg"
 img = cv2.imread(img_path,0)
 points = []
 img = cv2.resize(img, (600, 600))
@@ -185,9 +185,9 @@ cv2.destroyAllWindows()
 
 # %%
 #題目三 梯形轉換 自動化
-img_path = r"C:\Users\u1021\Downloads\MMIP\week1\data\20260921_171137.jpg"
+img_path = "./week1/data/20260921_171137.jpg"
 img = cv2.imread(img_path,0)
-img = cv2.equalizeHist(img)
+#img = cv2.equalizeHist(img)
 
 width = 500
 height = 500
@@ -731,8 +731,8 @@ def stitch_sift(img1, img2):
 # MAIN
 # ============================================================
 
-img1_path = r"C:\Users\u1021\Downloads\MMIP\week1\data\20260921_182357.jpg"
-img2_path = r"C:\Users\u1021\Downloads\MMIP\week1\data\20260921_175900.jpg"
+img1_path =  "./week1/data/20260921_182357.jpg"
+img2_path =  "./week1/data/20260921_175900.jpg"
 
 img1 = cv2.imread(img1_path)
 img2 = cv2.imread(img2_path)
