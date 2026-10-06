@@ -1,0 +1,17 @@
+{
+  "run_name": "q3_plain_cnn_aug",
+  "model": "plain_cnn",
+  "augmentation": true,
+  "parameters": 103659,
+  "best_epoch": 16,
+  "val_top1": 0.905974268913269,
+  "val_top5": 0.9905974268913269,
+  "test_top1": 0.8303521205984925,
+  "test_top5": 0.9874001574980312,
+  "test_macro_auc": 0.9828256113182519,
+  "split_hash": "8bd299f25fc3f26520178858aefeae697b14a3ada5997565c566d49432172f1c",
+  "train_images": 27648,
+  "validation_images": 6913,
+  "test_images": 17778,
+  "test_top3": 0.9579817752278097
+}

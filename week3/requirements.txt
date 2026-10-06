@@ -1,0 +1,8 @@
+tensorflow==2.11.0
+keras==2.11.0
+numpy==1.23.5
+medmnist==3.0.2
+scikit-learn==1.2.2
+matplotlib==3.7.5
+Pillow==10.4.0
+

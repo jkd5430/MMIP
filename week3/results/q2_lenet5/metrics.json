@@ -1,0 +1,17 @@
+{
+  "run_name": "q2_lenet5",
+  "model": "lenet5",
+  "augmentation": false,
+  "parameters": 61791,
+  "best_epoch": 31,
+  "val_top1": 0.985100507736206,
+  "val_top5": 0.9992766976356506,
+  "test_top1": 0.7764652941838227,
+  "test_top5": 0.9719878501518731,
+  "test_macro_auc": 0.9662496504023413,
+  "split_hash": "8bd299f25fc3f26520178858aefeae697b14a3ada5997565c566d49432172f1c",
+  "train_images": 27648,
+  "validation_images": 6913,
+  "test_images": 17778,
+  "test_top3": 0.9220384745190685
+}

@@ -1,0 +1,16 @@
+{
+  "run_name": "q2_plain_cnn",
+  "model": "plain_cnn",
+  "augmentation": false,
+  "parameters": 103659,
+  "best_epoch": 17,
+  "val_top1": 0.9858238101005554,
+  "val_top5": 0.9997106790542603,
+  "test_top1": 0.8865451681853976,
+  "test_top5": 0.9931938350770615,
+  "test_macro_auc": 0.9917841092719517,
+  "split_hash": "8bd299f25fc3f26520178858aefeae697b14a3ada5997565c566d49432172f1c",
+  "train_images": 27648,
+  "validation_images": 6913,
+  "test_images": 17778
+}

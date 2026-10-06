@@ -1,0 +1,39 @@
+Model: "plain_cnn"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ input_1 (InputLayer)        [(None, 28, 28, 1)]       0         
+                                                                 
+ conv1 (Conv2D)              (None, 26, 26, 32)        320       
+                                                                 
+ bn1 (BatchNormalization)    (None, 26, 26, 32)        128       
+                                                                 
+ conv2 (Conv2D)              (None, 24, 24, 32)        9248      
+                                                                 
+ bn2 (BatchNormalization)    (None, 24, 24, 32)        128       
+                                                                 
+ conv3 (Conv2D)              (None, 22, 22, 64)        18496     
+                                                                 
+ bn3 (BatchNormalization)    (None, 22, 22, 64)        256       
+                                                                 
+ conv4 (Conv2D)              (None, 20, 20, 64)        36928     
+                                                                 
+ bn4 (BatchNormalization)    (None, 20, 20, 64)        256       
+                                                                 
+ max_pooling2d (MaxPooling2D  (None, 10, 10, 64)       0         
+ )                                                               
+                                                                 
+ conv5 (Conv2D)              (None, 8, 8, 64)          36928     
+                                                                 
+ bn5 (BatchNormalization)    (None, 8, 8, 64)          256       
+                                                                 
+ global_average_pooling2d (G  (None, 64)               0         
+ lobalAveragePooling2D)                                          
+                                                                 
+ logits (Dense)              (None, 11)                715       
+                                                                 
+=================================================================
+Total params: 103,659
+Trainable params: 103,147
+Non-trainable params: 512
+_________________________________________________________________

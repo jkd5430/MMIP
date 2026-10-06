@@ -1,0 +1,11 @@
+{
+  "run_name": "q2_plain_cnn_2",
+  "model": "plain_cnn",
+  "augmentation": false,
+  "loss": "focal",
+  "focal_gamma": 4.0,
+  "learning_rate": 0.0005,
+  "batch_size": 64,
+  "epochs": 60,
+  "early_stopping_patience": 10
+}

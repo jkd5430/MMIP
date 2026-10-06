@@ -1,0 +1,11 @@
+test_index,true_class,pred_class,confidence,correct,image
+0,kidney-left,kidney-left,0.8687981963157654,1,00_panel.png
+1,bladder,bladder,0.9935459494590759,1,01_panel.png
+2,lung-right,lung-right,0.9999910593032837,1,02_panel.png
+3,liver,liver,0.9999967813491821,1,03_panel.png
+4,kidney-right,kidney-right,0.9998243451118469,1,04_panel.png
+10,kidney-left,liver,0.6159440279006958,0,05_panel.png
+15,lung-right,lung-left,0.9947702288627625,0,06_panel.png
+19,spleen,liver,0.8289121985435486,0,07_panel.png
+20,liver,kidney-right,0.44110962748527527,0,08_panel.png
+21,spleen,pancreas,0.8973581194877625,0,09_panel.png
