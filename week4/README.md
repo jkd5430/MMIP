@@ -38,11 +38,11 @@ Flickr8k 每張影像配有 5 條由人工撰寫的描述語句，影像選自 6
 | negative | 8825 | 3675 |
 | positive | 4499 | 8001 |
 
-![ROC](q2_rnn/roc_curves.png)
+![ROC](results/q2_rnn/roc_curves.png)
 
 train：依 validation loss 最低選擇第 3 epoch；val_loss=0.603350，同一 epoch val_accuracy=0.665000。
 
-![學習曲線](q2_rnn/train_learning_curves.png)
+![學習曲線](results/q2_rnn/train_learning_curves.png)
 
 ### lstm 各類別結果
 
@@ -60,11 +60,11 @@ train：依 validation loss 最低選擇第 3 epoch；val_loss=0.603350，同一
 | negative | 10584 | 1916 |
 | positive | 1683 | 10817 |
 
-![ROC](q2_lstm/roc_curves.png)
+![ROC](results/q2_lstm/roc_curves.png)
 
 train：依 validation loss 最低選擇第 1 epoch；val_loss=0.316025，同一 epoch val_accuracy=0.871800。
 
-![學習曲線](q2_lstm/train_learning_curves.png)
+![學習曲線](results/q2_lstm/train_learning_curves.png)
 
 ## Q3 
 
@@ -96,19 +96,19 @@ train：依 validation loss 最低選擇第 1 epoch；val_loss=0.316025，同一
 | bean_rust | 3 | 39 | 1 |
 | healthy | 1 | 1 | 40 |
 
-![ROC](q3_vit/roc_curves.png)
+![ROC](results/q3_vit/roc_curves.png)
 
 finetune：依 validation loss 最低選擇第 10 epoch；val_loss=0.063092，同一 epoch val_accuracy=0.977444。
 
-![學習曲線](q3_vit/finetune_learning_curves.png)
+![學習曲線](results/q3_vit/finetune_learning_curves.png)
 
 warmup：依 validation loss 最低選擇第 3 epoch；val_loss=0.215921，同一 epoch val_accuracy=0.909774。
 
-![學習曲線](q3_vit/warmup_learning_curves.png)
+![學習曲線](results/q3_vit/warmup_learning_curves.png)
 
 使用預訓練 backbone 並實際微調；最終採用 finetune 權重。warmup 最佳 val_loss=0.215921，finetune 最佳 val_loss=0.063092。
 
-![測試預測](q3_vit/test_predictions.png)
+![測試預測](results/q3_vit/test_predictions.png)
 
 ### ResNet 各類別結果
 
@@ -128,19 +128,19 @@ warmup：依 validation loss 最低選擇第 3 epoch；val_loss=0.215921，同�
 | bean_rust | 3 | 40 | 0 |
 | healthy | 0 | 0 | 42 |
 
-![ROC](q3_resnet/roc_curves.png)
+![ROC](results/q3_resnet/roc_curves.png)
 
 finetune：依 validation loss 最低選擇第 7 epoch；val_loss=0.116813，同一 epoch val_accuracy=0.954887。
 
-![學習曲線](q3_resnet/finetune_learning_curves.png)
+![學習曲線](results/q3_resnet/finetune_learning_curves.png)
 
 warmup：依 validation loss 最低選擇第 3 epoch；val_loss=0.247999，同一 epoch val_accuracy=0.909774。
 
-![學習曲線](q3_resnet/warmup_learning_curves.png)
+![學習曲線](results/q3_resnet/warmup_learning_curves.png)
 
 使用預訓練 backbone 並實際微調；最終採用 finetune 權重。warmup 最佳 val_loss=0.247999，finetune 最佳 val_loss=0.116813。
 
-![測試預測](q3_resnet/test_predictions.png)
+![測試預測](results/q3_resnet/test_predictions.png)
 
 ## Q4 
 
@@ -155,9 +155,9 @@ BLEU 為 0–1 corpus BLEU，smoothing method1。時間為 warm batch=1；總時
 
 GRU 訓練總時間未留存（舊訓練發生 NLTK 錯誤後，以既有權重恢復評估），因此不填造數值。token accuracy 是 teacher forcing 下的逐 token 指標，不等於整句描述正確率。
 
-![Caption 學習曲線](q4_gru/train_learning_curves.png)
+![Caption 學習曲線](results/q4_gru/train_learning_curves.png)
 
-![Caption 範例](q4_gru/caption_examples.png)
+![Caption 範例](results/q4_gru/caption_examples.png)
 
 ### 描述範例
 
