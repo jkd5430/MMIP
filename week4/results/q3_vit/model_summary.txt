@@ -1,0 +1,23 @@
+Model: "vit"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ images_0_to_255 (InputLayer  [(None, 224, 224, 3)]    0         
+ )                                                               
+                                                                 
+ train_augmentation (Sequent  (None, 224, 224, 3)      0         
+ ial)                                                            
+                                                                 
+ rescaling (Rescaling)       (None, 224, 224, 3)       0         
+                                                                 
+ vit-b16 (Functional)        (None, 768)               85798656  
+                                                                 
+ dropout (Dropout)           (None, 768)               0         
+                                                                 
+ beans_classifier (Dense)    (None, 3)                 2307      
+                                                                 
+=================================================================
+Total params: 85,800,963
+Trainable params: 2,307
+Non-trainable params: 85,798,656
+_________________________________________________________________

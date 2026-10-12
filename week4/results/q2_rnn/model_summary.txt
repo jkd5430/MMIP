@@ -1,0 +1,21 @@
+Model: "rnn"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ tokens (InputLayer)         [(None, 256)]             0         
+                                                                 
+ embedding (Embedding)       (None, 256, 128)          2560000   
+                                                                 
+ simple_rnn (SimpleRNN)      (None, 64)                12352     
+                                                                 
+ dense (Dense)               (None, 64)                4160      
+                                                                 
+ dropout (Dropout)           (None, 64)                0         
+                                                                 
+ dense_1 (Dense)             (None, 1)                 65        
+                                                                 
+=================================================================
+Total params: 2,576,577
+Trainable params: 2,576,577
+Non-trainable params: 0
+_________________________________________________________________

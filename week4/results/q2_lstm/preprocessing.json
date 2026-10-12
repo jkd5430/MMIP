@@ -1,0 +1,12 @@
+{
+  "max_length": 256,
+  "vocab_limit": 20000,
+  "padding": "post",
+  "truncating": "post",
+  "fit_vocabulary_on": "train only",
+  "split_samples": {
+    "train": 20000,
+    "validation": 5000,
+    "test": 25000
+  }
+}

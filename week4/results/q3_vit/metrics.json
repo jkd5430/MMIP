@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.9140625,
+  "macro_f1": 0.9143501078592357,
+  "precision_macro": 0.9145021645021645,
+  "recall_macro": 0.9143595422665189,
+  "macro_auc": 0.9894132846937224,
+  "train_seconds": 270.7831739159301,
+  "test_samples": 128,
+  "parameters": 85800963,
+  "selected_phase": "finetune",
+  "inference_ms_per_image": 31.780647968844278,
+  "pretrained_backbone": true,
+  "finetuned_backbone": true,
+  "warmup_val_loss": 0.21592076122760773,
+  "finetune_val_loss": 0.06309188902378082
+}

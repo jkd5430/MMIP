@@ -1,0 +1,27 @@
+{
+  "train_seconds": null,
+  "parameters": 3287688,
+  "evaluated_images": 1000,
+  "test_split_images": 1000,
+  "test_subset": false,
+  "bleu_scale": "0..1, corpus BLEU, all reference captions, smoothing method1",
+  "timing": "warm batch=1 encoder (JPEG read/resize/CNN) + decoder; encoder shared between methods",
+  "greedy": {
+    "bleu_1": 0.5255435743326852,
+    "bleu_2": 0.34765473120727935,
+    "bleu_3": 0.2248474950239599,
+    "bleu_4": 0.14585473534484011,
+    "mean_decoder_ms": 66.18573641590774,
+    "mean_total_ms": 145.07061309064738,
+    "median_total_ms": 140.96399501431733
+  },
+  "beam3": {
+    "bleu_1": 0.5571909571909572,
+    "bleu_2": 0.372211731076895,
+    "bleu_3": 0.24617424492493803,
+    "bleu_4": 0.16242474367337725,
+    "mean_decoder_ms": 111.53307274333201,
+    "mean_total_ms": 190.41794941807166,
+    "median_total_ms": 187.52323288936168
+  }
+}

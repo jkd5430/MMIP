@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.85604,
+  "macro_f1": 0.8560274942026125,
+  "precision_macro": 0.8561637489521079,
+  "recall_macro": 0.85604,
+  "macro_auc": 0.9240942816000001,
+  "train_seconds": 203.52406732807867,
+  "test_samples": 25000,
+  "parameters": 2613633,
+  "inference_ms_per_review": 0.7185432225558906
+}

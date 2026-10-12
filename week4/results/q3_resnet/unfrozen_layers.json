@@ -1,0 +1,12 @@
+[
+  "conv5_block1_1_conv",
+  "conv5_block1_2_conv",
+  "conv5_block1_0_conv",
+  "conv5_block1_3_conv",
+  "conv5_block2_1_conv",
+  "conv5_block2_2_conv",
+  "conv5_block2_3_conv",
+  "conv5_block3_1_conv",
+  "conv5_block3_2_conv",
+  "conv5_block3_3_conv"
+]

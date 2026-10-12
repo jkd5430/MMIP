@@ -1,0 +1,495 @@
+[
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1056338697_4f7d7ce270.jpg",
+    "caption": "a woman in a white shirt and a woman sitting on a bench",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The caption incorrectly states that the woman is wearing a white shirt; she is wearing a blue top. Furthermore, there is no woman sitting on a bench visible in the image.",
+      "hallucinations": [
+        "white shirt",
+        "a woman sitting on a bench"
+      ]
+    },
+    "judge_ms": 5084.888997953385
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1056338697_4f7d7ce270.jpg",
+    "caption": "a woman in a white tank top is standing in front of a brick wall",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The caption incorrectly states the woman is wearing a white tank top; she is wearing a blue strapless top. It also incorrectly states she is standing in front of a brick wall; she is in front of a street with cars.",
+      "hallucinations": [
+        "white tank top",
+        "brick wall"
+      ]
+    },
+    "judge_ms": 4918.002597987652
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "caption": "a young boy wearing a red shirt is standing in the middle of a pool",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The caption incorrectly states the boy is wearing a red shirt and is in a pool. The boy is shirtless and appears to be at a beach or in the ocean.",
+      "hallucinations": [
+        "red shirt",
+        "pool"
+      ]
+    },
+    "judge_ms": 3673.0291820131242
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "caption": "a young boy wearing a red shirt is standing in the middle of a pool",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The caption incorrectly states the boy is wearing a red shirt and is in a pool. The boy is shirtless and appears to be at a beach or in the ocean.",
+      "hallucinations": [
+        "red shirt",
+        "pool"
+      ]
+    },
+    "judge_ms": 3868.7259759753942
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1082379191_ec1e53f996.jpg",
+    "caption": "two children are sitting on a bench",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The caption incorrectly identifies the two main subjects as children; they are clearly adults. While they are sitting on a wooden structure that could be considered a bench or platform, the primary misrepresentation of age significantly impacts the accuracy.",
+      "hallucinations": [
+        "children"
+      ]
+    },
+    "judge_ms": 3633.432189002633
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1082379191_ec1e53f996.jpg",
+    "caption": "two children are sitting on a wooden bench",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The caption incorrectly identifies the subjects as 'children'; they are adults. However, it correctly states that two people are sitting on a wooden structure, which appears to be a bench or dock.",
+      "hallucinations": [
+        "children"
+      ]
+    },
+    "judge_ms": 3301.929180044681
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1084040636_97d9633581.jpg",
+    "caption": "a white dog is running through the snow",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows a white dog, but it is lying down on a tiled surface, not running through snow. The action and environment described in the caption are incorrect.",
+      "hallucinations": [
+        "running",
+        "through the snow"
+      ]
+    },
+    "judge_ms": 4217.890545958653
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1084040636_97d9633581.jpg",
+    "caption": "a white dog is running through the snow",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows a white dog, but it is lying down on a tiled surface, not running through snow. The action and environment described in the caption are incorrect.",
+      "hallucinations": [
+        "running",
+        "through the snow"
+      ]
+    },
+    "judge_ms": 6061.390059068799
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "caption": "a young boy wearing a red shirt is playing with a ball",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The caption correctly identifies that there is a young boy wearing a red shirt. However, it incorrectly states that he is playing with a ball. The boy is actually playing with a light-up spinning toy. While there is a small soccer ball visible in the background, the boy is not interacting with it.",
+      "hallucinations": [
+        "playing with a ball"
+      ]
+    },
+    "judge_ms": 4475.397648056969
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "caption": "a young boy wearing a red shirt is playing with a red ball",
+    "gemini_model": "gemini-2.5-flash",
+    "judgment": {
+      "matches": false,
+      "score": 3,
+      "reason": "The caption correctly identifies a young boy wearing a red shirt. However, it incorrectly states he is playing with a red ball. The boy is actually playing with a light-up spinning toy, and there is a white and black soccer ball visible in the background, not a red one.",
+      "hallucinations": [
+        "red ball",
+        "playing with a red ball"
+      ]
+    },
+    "judge_ms": 4282.040643971413
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1056338697_4f7d7ce270.jpg",
+    "caption": "a woman in a white shirt and a woman sitting on a bench",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The candidate caption mentions 'a woman in a white shirt and a woman sitting on a bench', which is completely incorrect. The image shows a woman with blonde hair wearing a blue top, with her arm raised in the street, and there is no woman sitting on a bench.",
+      "hallucinations": [
+        "white shirt",
+        "a woman sitting on a bench"
+      ]
+    },
+    "judge_ms": 1563.6695949360728
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1056338697_4f7d7ce270.jpg",
+    "caption": "a woman in a white tank top is standing in front of a brick wall",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The candidate caption claims the woman is in a white tank top and standing in front of a brick wall, but she is actually wearing a blue top and is standing near a street with cars, not in front of a brick wall.",
+      "hallucinations": [
+        "white tank top",
+        "brick wall"
+      ]
+    },
+    "judge_ms": 2668.081986019388
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "caption": "a young boy wearing a red shirt is standing in the middle of a pool",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The candidate caption incorrectly states that the boy is wearing a red shirt and is in a pool. In the image, the boy is shirtless, wearing blue patterned swim trunks, and is at the beach/ocean shore.",
+      "hallucinations": [
+        "red shirt",
+        "middle of a pool"
+      ]
+    },
+    "judge_ms": 1486.5321859251708
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "caption": "a young boy wearing a red shirt is standing in the middle of a pool",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The candidate caption incorrectly states that the boy is wearing a red shirt and is standing in a pool, whereas he is shirtless, wearing swim trunks, and is at the beach/ocean shore.",
+      "hallucinations": [
+        "wearing a red shirt",
+        "in the middle of a pool"
+      ]
+    },
+    "judge_ms": 2237.2324659954756
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1082379191_ec1e53f996.jpg",
+    "caption": "two children are sitting on a bench",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows an adult man and an adult woman sitting on a wooden platform (or edge), not two children sitting on a bench.",
+      "hallucinations": [
+        "two children",
+        "bench"
+      ]
+    },
+    "judge_ms": 1955.8897621463984
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1082379191_ec1e53f996.jpg",
+    "caption": "two children are sitting on a wooden bench",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows two adults (a woman and a shirtless man) sitting on a wooden dock or bench, not children.",
+      "hallucinations": [
+        "two children"
+      ]
+    },
+    "judge_ms": 2186.7511020973325
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1084040636_97d9633581.jpg",
+    "caption": "a white dog is running through the snow",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows a white dog resting on a tiled floor, not running through snow.",
+      "hallucinations": [
+        "running",
+        "through the snow"
+      ]
+    },
+    "judge_ms": 1885.9344532247633
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1084040636_97d9633581.jpg",
+    "caption": "a white dog is running through the snow",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows a white dog resting on a tiled floor, not running through the snow.",
+      "hallucinations": [
+        "running through the snow"
+      ]
+    },
+    "judge_ms": 1384.0383349452168
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "caption": "a young boy wearing a red shirt is playing with a ball",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The candidate caption mentions the boy is playing with a ball, but he is actually playing with a toy/light-up gadget (like a spinning top toy or toy gun) held up to his face, not a ball.",
+      "hallucinations": [
+        "playing with a ball"
+      ]
+    },
+    "judge_ms": 1902.9744840227067
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "caption": "a young boy wearing a red shirt is playing with a red ball",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The caption correctly identifies the young boy wearing a red shirt, but incorrectly states he is playing with a red ball. The boy is actually playing with a toy/light-up gadget (and there is a white/multicolored soccer ball on the floor, not a red ball).",
+      "hallucinations": [
+        "a red ball"
+      ]
+    },
+    "judge_ms": 1583.757502026856
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1107246521_d16a476380.jpg",
+    "caption": "two black dogs are playing in the grass",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The image shows only one black dog playing in the grass, not two.",
+      "hallucinations": [
+        "two black dogs"
+      ]
+    },
+    "judge_ms": 1563.2074931636453
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1107246521_d16a476380.jpg",
+    "caption": "a black dog is running through the grass",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": true,
+      "score": 5,
+      "reason": "The candidate caption accurately and concisely describes the image, capturing both the subject (a black dog) and the action/setting (running through the grass).",
+      "hallucinations": []
+    },
+    "judge_ms": 1794.9671249371022
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1119015538_e8e796281e.jpg",
+    "caption": "a small dog is running through a grassy area",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": true,
+      "score": 5,
+      "reason": "The caption accurately describes the image showing a small dog running through a grassy area.",
+      "hallucinations": []
+    },
+    "judge_ms": 1615.3069380670786
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1119015538_e8e796281e.jpg",
+    "caption": "a brown dog is running through a grassy area",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": true,
+      "score": 5,
+      "reason": "The image clearly shows a brown puppy running through a grassy area, making the caption fully accurate.",
+      "hallucinations": []
+    },
+    "judge_ms": 1171.025981893763
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1122944218_8eb3607403.jpg",
+    "caption": "a young boy wearing a red shirt is standing in front of a crowd",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The candidate caption describes a 'young boy wearing a red shirt standing in front of a crowd', which is completely incorrect. The image shows a baby wearing a white shirt holding a Pakistani flag, not a boy in a red shirt in front of a crowd.",
+      "hallucinations": [
+        "young boy wearing a red shirt",
+        "standing in front of a crowd"
+      ]
+    },
+    "judge_ms": 2216.15635487251
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1122944218_8eb3607403.jpg",
+    "caption": "a little girl in a white dress is standing in front of a house",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 2,
+      "reason": "The image shows a baby boy (not a girl) in a white outfit holding a flag, and the location is indoors, not necessarily 'in front of a house'.",
+      "hallucinations": [
+        "girl",
+        "in front of a house"
+      ]
+    },
+    "judge_ms": 1130.929573904723
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1131800850_89c7ffd477.jpg",
+    "caption": "a brown and white dog is running through the water",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": true,
+      "score": 4,
+      "reason": "The caption correctly identifies a brown and white dog and the water context (implied by the splashing/rain/water setting), though it specifically says 'running' which is partially inferred since only the upper body is clearly in motion.",
+      "hallucinations": []
+    },
+    "judge_ms": 1886.864123865962
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1131800850_89c7ffd477.jpg",
+    "caption": "two dogs are playing in the water",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image shows only one dog shaking off water, not two dogs playing.",
+      "hallucinations": [
+        "two dogs",
+        "playing in the water"
+      ]
+    },
+    "judge_ms": 1994.587671943009
+  },
+  {
+    "model": "gru",
+    "method": "greedy",
+    "image": "1131932671_c8d17751b3.jpg",
+    "caption": "a young girl in a pink shirt is sitting on a couch",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The image depicts a young boy jumping on a bed, not a young girl in a pink shirt sitting on a couch.",
+      "hallucinations": [
+        "young girl",
+        "pink shirt",
+        "sitting",
+        "couch"
+      ]
+    },
+    "judge_ms": 2007.4530800338835
+  },
+  {
+    "model": "gru",
+    "method": "beam3",
+    "image": "1131932671_c8d17751b3.jpg",
+    "caption": "a young girl in a pink shirt is sitting on a bed",
+    "gemini_model": "gemini-3.5-flash-lite",
+    "judgment": {
+      "matches": false,
+      "score": 1,
+      "reason": "The candidate caption describes a 'young girl in a pink shirt', but the image clearly shows a young boy jumping in blue and white athletic clothes.",
+      "hallucinations": [
+        "young girl",
+        "pink shirt",
+        "is sitting on a bed"
+      ]
+    },
+    "judge_ms": 1360.1607328746468
+  }
+]

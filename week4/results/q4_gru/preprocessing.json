@@ -1,0 +1,15 @@
+{
+  "vocab_size": 5000,
+  "max_length": 40,
+  "feature_dim": 1280,
+  "kind": "gru",
+  "encoder": "ImageNet MobileNetV2 frozen",
+  "train_vocabulary_only": true,
+  "split_images": {
+    "train": 6000,
+    "validation": 1000,
+    "test": 1000
+  },
+  "beam_width": 3,
+  "beam_length_penalty": 0.7
+}

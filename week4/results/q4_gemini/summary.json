@@ -1,0 +1,33 @@
+{
+  "gemini_model": "gemini-3.5-flash-lite",
+  "image_ids": [
+    "1056338697_4f7d7ce270.jpg",
+    "106490881_5a2dd9b7bd.jpg",
+    "1082379191_ec1e53f996.jpg",
+    "1084040636_97d9633581.jpg",
+    "1096395242_fc69f0ae5a.jpg",
+    "1107246521_d16a476380.jpg",
+    "1119015538_e8e796281e.jpg",
+    "1122944218_8eb3607403.jpg",
+    "1131800850_89c7ffd477.jpg",
+    "1131932671_c8d17751b3.jpg"
+  ],
+  "comparisons": [
+    {
+      "model": "gru",
+      "method": "greedy",
+      "samples": 10,
+      "match_rate": 0.2,
+      "mean_score": 1.9,
+      "mean_judge_ms": 1808.3988470258191
+    },
+    {
+      "model": "gru",
+      "method": "beam3",
+      "samples": 10,
+      "match_rate": 0.2,
+      "mean_score": 2.0,
+      "mean_judge_ms": 1751.1532476637512
+    }
+  ]
+}

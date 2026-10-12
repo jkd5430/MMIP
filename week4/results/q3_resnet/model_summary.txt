@@ -1,0 +1,26 @@
+Model: "resnet"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ images_0_to_255 (InputLayer  [(None, 224, 224, 3)]    0         
+ )                                                               
+                                                                 
+ train_augmentation (Sequent  (None, 224, 224, 3)      0         
+ ial)                                                            
+                                                                 
+ tf.__operators__.getitem (S  (None, 224, 224, 3)      0         
+ licingOpLambda)                                                 
+                                                                 
+ tf.nn.bias_add (TFOpLambda)  (None, 224, 224, 3)      0         
+                                                                 
+ resnet50 (Functional)       (None, 2048)              23587712  
+                                                                 
+ dropout (Dropout)           (None, 2048)              0         
+                                                                 
+ beans_classifier (Dense)    (None, 3)                 6147      
+                                                                 
+=================================================================
+Total params: 23,593,859
+Trainable params: 6,147
+Non-trainable params: 23,587,712
+_________________________________________________________________

@@ -1,0 +1,15 @@
+{
+  "task": "q4_gru",
+  "gpu": "4",
+  "epochs": 10,
+  "warmup_epochs": 3,
+  "batch_size": 16,
+  "seed": 42,
+  "limit": null,
+  "eval_images": null,
+  "evaluate_only": true,
+  "gemini_samples": 10,
+  "gemini_model": null,
+  "training_seed": 42,
+  "training_limit": null
+}
