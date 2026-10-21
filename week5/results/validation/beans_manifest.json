@@ -1,0 +1,502 @@
+{
+  "source": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week4\\data\\beans_hf",
+  "classes": [
+    "angular_leaf_spot",
+    "bean_rust",
+    "healthy"
+  ],
+  "official_counts": {
+    "train": 1034,
+    "validation": 133,
+    "test": 128
+  },
+  "limit": 32,
+  "splits": {
+    "train": [
+      {
+        "id": "8a0aaa202333f30c26eac1cde45e82af862f9372078469b2a754e861da11a78d",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\8a0aaa202333f30c26eac1cde45e82af862f9372078469b2a754e861da11a78d.jpg",
+        "label": 1
+      },
+      {
+        "id": "e60cdb7ca7069f0a7f1ee6ae5a1119036d0d25f27f724f6eec7e7064ecaea48c",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\e60cdb7ca7069f0a7f1ee6ae5a1119036d0d25f27f724f6eec7e7064ecaea48c.jpg",
+        "label": 0
+      },
+      {
+        "id": "1a25c105457bb29bf6b8d7c6e100fea4571396bcf1d496ce4bd06d6d463434b6",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\1a25c105457bb29bf6b8d7c6e100fea4571396bcf1d496ce4bd06d6d463434b6.jpg",
+        "label": 1
+      },
+      {
+        "id": "55cc43a8697b25928f0749e933d86dae7f33cc3bb4ceb22fc44b7caf20469478",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\55cc43a8697b25928f0749e933d86dae7f33cc3bb4ceb22fc44b7caf20469478.jpg",
+        "label": 0
+      },
+      {
+        "id": "dd09b4ef6f420e0471dca44049de5d3f15a3e8d7c5c0a402304ee8fdf10e9aee",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\dd09b4ef6f420e0471dca44049de5d3f15a3e8d7c5c0a402304ee8fdf10e9aee.jpg",
+        "label": 2
+      },
+      {
+        "id": "1802dcf64eb8c895c85cb2fabc47819cf0cb1b089f316a9ff6a69d9b63765dbe",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\1802dcf64eb8c895c85cb2fabc47819cf0cb1b089f316a9ff6a69d9b63765dbe.jpg",
+        "label": 2
+      },
+      {
+        "id": "e71843f7233f1170f7f83db42dfcdb230ff3922ae08d5bb56dffe602f902bd21",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\e71843f7233f1170f7f83db42dfcdb230ff3922ae08d5bb56dffe602f902bd21.jpg",
+        "label": 2
+      },
+      {
+        "id": "e977524fa000e8495a8c6175e3e6536ea49f648b0e37c15c24451eafe0dffb12",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\e977524fa000e8495a8c6175e3e6536ea49f648b0e37c15c24451eafe0dffb12.jpg",
+        "label": 1
+      },
+      {
+        "id": "230c816837fd37fe096f8d0d5bd5827831efb63f736ef8cbaf39c09394134114",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\230c816837fd37fe096f8d0d5bd5827831efb63f736ef8cbaf39c09394134114.jpg",
+        "label": 1
+      },
+      {
+        "id": "cb86d68bd6526317e6d3b0987c066d881ecff4e06ca0f087885a0240271c15c0",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\cb86d68bd6526317e6d3b0987c066d881ecff4e06ca0f087885a0240271c15c0.jpg",
+        "label": 2
+      },
+      {
+        "id": "d048c0d7d878677594f84b74c175df92a3c34219a99b2d1121af1010554c48df",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\d048c0d7d878677594f84b74c175df92a3c34219a99b2d1121af1010554c48df.jpg",
+        "label": 0
+      },
+      {
+        "id": "3c362d98d45a0395035f6930d1ff27c208db4a85a09b712fad08b7f1b215f40a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\3c362d98d45a0395035f6930d1ff27c208db4a85a09b712fad08b7f1b215f40a.jpg",
+        "label": 2
+      },
+      {
+        "id": "ae886ce34759c047d241670dd146e8a9e6d51d906cbdc1a24afb956215d3443d",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\ae886ce34759c047d241670dd146e8a9e6d51d906cbdc1a24afb956215d3443d.jpg",
+        "label": 0
+      },
+      {
+        "id": "45ccffcc23a66e57f89bd3331af0f95b77f4c607dba96633c4595269b41ea19e",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\45ccffcc23a66e57f89bd3331af0f95b77f4c607dba96633c4595269b41ea19e.jpg",
+        "label": 2
+      },
+      {
+        "id": "e23a1ea51894bd1263f354c51d8b8044e9087d5e37763d2ddafefc541dde384d",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\e23a1ea51894bd1263f354c51d8b8044e9087d5e37763d2ddafefc541dde384d.jpg",
+        "label": 1
+      },
+      {
+        "id": "6a4c8bd15fbc4bc087f4648d80c2a220802c0488baaff0d034a0469eed90ab16",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\6a4c8bd15fbc4bc087f4648d80c2a220802c0488baaff0d034a0469eed90ab16.jpg",
+        "label": 2
+      },
+      {
+        "id": "d964175693788cf9db3c7d3317185deeae5bf96ddc79a80701404f8092a56162",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\d964175693788cf9db3c7d3317185deeae5bf96ddc79a80701404f8092a56162.jpg",
+        "label": 2
+      },
+      {
+        "id": "76829d0fc5672fe796f0570bba027b97a59a89f67b0d251aac924d84ad3f2aa1",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\76829d0fc5672fe796f0570bba027b97a59a89f67b0d251aac924d84ad3f2aa1.jpg",
+        "label": 1
+      },
+      {
+        "id": "00efeaebb13d9d988e766c3113f23e94bc1de213bb273a7f6a1251738205c1b6",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\00efeaebb13d9d988e766c3113f23e94bc1de213bb273a7f6a1251738205c1b6.jpg",
+        "label": 0
+      },
+      {
+        "id": "5c1ab97889316e564f1a02c4d60be9cda2d4c39af160bbb4ef26bf95c233a7e6",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\5c1ab97889316e564f1a02c4d60be9cda2d4c39af160bbb4ef26bf95c233a7e6.jpg",
+        "label": 1
+      },
+      {
+        "id": "7570cd256bc22011dcac8d780d099a178ec2b29196ac3541c5bfe4219ef700a7",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\7570cd256bc22011dcac8d780d099a178ec2b29196ac3541c5bfe4219ef700a7.jpg",
+        "label": 1
+      },
+      {
+        "id": "4c5ed9cca6060c98eb88254ac1250184f9f26991e13d839556ad16c67b603e96",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\4c5ed9cca6060c98eb88254ac1250184f9f26991e13d839556ad16c67b603e96.jpg",
+        "label": 1
+      },
+      {
+        "id": "45e9d6c1124f8782fca476adb64f63c8d4c7ef3385e4403d9c4e82b2617b751b",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\45e9d6c1124f8782fca476adb64f63c8d4c7ef3385e4403d9c4e82b2617b751b.jpg",
+        "label": 1
+      },
+      {
+        "id": "f6a1d90039b37596ac60d440b77907d723feeeccf44dd72a1699cc294562fceb",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\f6a1d90039b37596ac60d440b77907d723feeeccf44dd72a1699cc294562fceb.jpg",
+        "label": 2
+      },
+      {
+        "id": "24a7f60ed1385e250f8d304c2af77040619434d2591ed01826d0ea022a5ec884",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\24a7f60ed1385e250f8d304c2af77040619434d2591ed01826d0ea022a5ec884.jpg",
+        "label": 0
+      },
+      {
+        "id": "7783d94091b81bb2d9672054d6d7c7bf3d690bf8908631c742e6abbe549ee621",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\7783d94091b81bb2d9672054d6d7c7bf3d690bf8908631c742e6abbe549ee621.jpg",
+        "label": 0
+      },
+      {
+        "id": "978bafabec13e384945cfc92edc52fe8f7c83c1606160dd1d96db2bbd8bb03ce",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\978bafabec13e384945cfc92edc52fe8f7c83c1606160dd1d96db2bbd8bb03ce.jpg",
+        "label": 0
+      },
+      {
+        "id": "eb3a518ad02ca5a74f541be7ee2cb1984a912b50139685c80f0f2fa9654b2dd3",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\eb3a518ad02ca5a74f541be7ee2cb1984a912b50139685c80f0f2fa9654b2dd3.jpg",
+        "label": 1
+      },
+      {
+        "id": "970f1cb33a8fee13268ffac06a142a83ae78af578564699d88c81458b833f637",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\970f1cb33a8fee13268ffac06a142a83ae78af578564699d88c81458b833f637.jpg",
+        "label": 1
+      },
+      {
+        "id": "d4bc10120f9f25522afd923481c2b1b95faf27380a5a165e9028111bd68a0c69",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\d4bc10120f9f25522afd923481c2b1b95faf27380a5a165e9028111bd68a0c69.jpg",
+        "label": 1
+      },
+      {
+        "id": "a2768d75ead16d41f7f418df2ecd4b5b98801f40d7ef08669b1a96bc5ee64272",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\a2768d75ead16d41f7f418df2ecd4b5b98801f40d7ef08669b1a96bc5ee64272.jpg",
+        "label": 0
+      },
+      {
+        "id": "93c11457ebc2e58eb4dffce321477bfdc3ab01d5a1cae389c00a756be9882417",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\train\\93c11457ebc2e58eb4dffce321477bfdc3ab01d5a1cae389c00a756be9882417.jpg",
+        "label": 2
+      }
+    ],
+    "validation": [
+      {
+        "id": "1a07a84fe13589dca98af9f0baaa87afb911f4dc72422b30e486dd6180c22ab5",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\1a07a84fe13589dca98af9f0baaa87afb911f4dc72422b30e486dd6180c22ab5.jpg",
+        "label": 2
+      },
+      {
+        "id": "b1d9801d4b9d79e382456953d7c0b23695f03b76700216c0c151fdbf80bcca1b",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\b1d9801d4b9d79e382456953d7c0b23695f03b76700216c0c151fdbf80bcca1b.jpg",
+        "label": 2
+      },
+      {
+        "id": "0d3cf9e0ca2ddf1d21527dd8281ab3b796b1c9183174b07b0215a16d15e5ef2e",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\0d3cf9e0ca2ddf1d21527dd8281ab3b796b1c9183174b07b0215a16d15e5ef2e.jpg",
+        "label": 2
+      },
+      {
+        "id": "43a8cf5f96522713e4862661b11b6a02eb38c2b88f364125fcfc99810661b6c5",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\43a8cf5f96522713e4862661b11b6a02eb38c2b88f364125fcfc99810661b6c5.jpg",
+        "label": 0
+      },
+      {
+        "id": "336f802d1ce9458f62b8ce040414f91a6b8e02ed7eb22b45806ad135f3ea6aec",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\336f802d1ce9458f62b8ce040414f91a6b8e02ed7eb22b45806ad135f3ea6aec.jpg",
+        "label": 2
+      },
+      {
+        "id": "567eed0dbf7ad8670c1fd26722179cd0213726f78ee0e01fd61517c3bf180c39",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\567eed0dbf7ad8670c1fd26722179cd0213726f78ee0e01fd61517c3bf180c39.jpg",
+        "label": 0
+      },
+      {
+        "id": "0e4bf121885bb58290da3ad2fa33c3ab6c71a0d9e0cb62b8d00db058315e5e51",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\0e4bf121885bb58290da3ad2fa33c3ab6c71a0d9e0cb62b8d00db058315e5e51.jpg",
+        "label": 0
+      },
+      {
+        "id": "7386d49ff7938281747084351b62ee6b14203105d90373c737b868e41ef190a6",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\7386d49ff7938281747084351b62ee6b14203105d90373c737b868e41ef190a6.jpg",
+        "label": 2
+      },
+      {
+        "id": "abdc53279aeb3bfa8072088da4207a7d4108e2f8d2c80cae72e6d1f25a514963",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\abdc53279aeb3bfa8072088da4207a7d4108e2f8d2c80cae72e6d1f25a514963.jpg",
+        "label": 2
+      },
+      {
+        "id": "0ed3b17803cc701f1504952556064cc73436216ba10cbb691f850faec056cdf2",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\0ed3b17803cc701f1504952556064cc73436216ba10cbb691f850faec056cdf2.jpg",
+        "label": 0
+      },
+      {
+        "id": "256cfaec91dafe6f43aad9942537c71a93d487e75bd6e93abc0e135259c90ace",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\256cfaec91dafe6f43aad9942537c71a93d487e75bd6e93abc0e135259c90ace.jpg",
+        "label": 1
+      },
+      {
+        "id": "7ed3c62871d4a8db177ec7f4f08cb5aedcc02a0248296eaafff42dadf53cf88f",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\7ed3c62871d4a8db177ec7f4f08cb5aedcc02a0248296eaafff42dadf53cf88f.jpg",
+        "label": 1
+      },
+      {
+        "id": "c5251e2e844c793b2e5e9a013fa09b21fc0b57141e519b580c02c240e28f9089",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\c5251e2e844c793b2e5e9a013fa09b21fc0b57141e519b580c02c240e28f9089.jpg",
+        "label": 1
+      },
+      {
+        "id": "f513ed25ce958d29d2db9c2a4a95b63380e62d533b75eda077afaea09739a799",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\f513ed25ce958d29d2db9c2a4a95b63380e62d533b75eda077afaea09739a799.jpg",
+        "label": 0
+      },
+      {
+        "id": "0db6252a6141168f35bdc92561d4cccb8cc658abdf526f413ea63ec324def837",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\0db6252a6141168f35bdc92561d4cccb8cc658abdf526f413ea63ec324def837.jpg",
+        "label": 1
+      },
+      {
+        "id": "8df4001ed90747023641649e213f35beff60f5628a0d49d922bddbb663666d68",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\8df4001ed90747023641649e213f35beff60f5628a0d49d922bddbb663666d68.jpg",
+        "label": 0
+      },
+      {
+        "id": "44301dc5c152dc298501830455482527ad9a516abb9a818a0c1993581a2ca553",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\44301dc5c152dc298501830455482527ad9a516abb9a818a0c1993581a2ca553.jpg",
+        "label": 1
+      },
+      {
+        "id": "c5a4b6ff0d6d15783609f1d107f7556eebce257a569f82a9e566c053406c29f7",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\c5a4b6ff0d6d15783609f1d107f7556eebce257a569f82a9e566c053406c29f7.jpg",
+        "label": 1
+      },
+      {
+        "id": "391089a6edce7269be73af8aa2f692eba1648f73d5ca98983a0a019eb3670087",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\391089a6edce7269be73af8aa2f692eba1648f73d5ca98983a0a019eb3670087.jpg",
+        "label": 0
+      },
+      {
+        "id": "91e92beb10eb51261a734786d64d8e54bd8662f80efb6304090538bac42d6ea1",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\91e92beb10eb51261a734786d64d8e54bd8662f80efb6304090538bac42d6ea1.jpg",
+        "label": 0
+      },
+      {
+        "id": "3de24f520da83b96e9dc77084079428cb13e1ea490db275c04e7df52c3602578",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\3de24f520da83b96e9dc77084079428cb13e1ea490db275c04e7df52c3602578.jpg",
+        "label": 0
+      },
+      {
+        "id": "bd7806c3b308b3dd9bdc79fb545df459fe732419f28cc602963c498bca55561a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\bd7806c3b308b3dd9bdc79fb545df459fe732419f28cc602963c498bca55561a.jpg",
+        "label": 1
+      },
+      {
+        "id": "68a9cc5b7c7c0047942bb383186a94e2d93a7f5aae58b4de1e651486ec4928c9",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\68a9cc5b7c7c0047942bb383186a94e2d93a7f5aae58b4de1e651486ec4928c9.jpg",
+        "label": 0
+      },
+      {
+        "id": "0414074c3c40847c92ac9c8f031c67f565384a989e61d5b420f6f7182ccc5e53",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\0414074c3c40847c92ac9c8f031c67f565384a989e61d5b420f6f7182ccc5e53.jpg",
+        "label": 2
+      },
+      {
+        "id": "4a2d9257867757aac58c9035d24ac0a24a27b606a618d86fd398e81c562822fa",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\4a2d9257867757aac58c9035d24ac0a24a27b606a618d86fd398e81c562822fa.jpg",
+        "label": 2
+      },
+      {
+        "id": "6dee3604c4ef3686a34f1373d210591b289a550a74d9ccb569cb2a0362d49bf9",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\6dee3604c4ef3686a34f1373d210591b289a550a74d9ccb569cb2a0362d49bf9.jpg",
+        "label": 2
+      },
+      {
+        "id": "7d87cc324d31bb0dd5f40258dfbefe4735f0b693eb58e553e1e61f80b359e385",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\7d87cc324d31bb0dd5f40258dfbefe4735f0b693eb58e553e1e61f80b359e385.jpg",
+        "label": 1
+      },
+      {
+        "id": "6b1a81ab1a65206bda7f0e1f314c816e61249b900cd56e83238cdfdb3cffdb2a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\6b1a81ab1a65206bda7f0e1f314c816e61249b900cd56e83238cdfdb3cffdb2a.jpg",
+        "label": 1
+      },
+      {
+        "id": "8a8f8ce769dea4f7886953e4daf3bd24da65f34dea9e7d65850c9b7c4e50b028",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\8a8f8ce769dea4f7886953e4daf3bd24da65f34dea9e7d65850c9b7c4e50b028.jpg",
+        "label": 1
+      },
+      {
+        "id": "6a4490154d1a2dde4c0e87e1a1433134f0db8c770e0f6d27b3823fe0d33e0ad3",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\6a4490154d1a2dde4c0e87e1a1433134f0db8c770e0f6d27b3823fe0d33e0ad3.jpg",
+        "label": 0
+      },
+      {
+        "id": "39d30d2aec2a65a90b010542bc7b80bd588ddb3ba47176563997d1d2d90614ff",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\39d30d2aec2a65a90b010542bc7b80bd588ddb3ba47176563997d1d2d90614ff.jpg",
+        "label": 2
+      },
+      {
+        "id": "6739d9447ef2d23c7a1b3c77ac57d69c4c25b6497d2adcceee9568bd30839cbd",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\validation\\6739d9447ef2d23c7a1b3c77ac57d69c4c25b6497d2adcceee9568bd30839cbd.jpg",
+        "label": 1
+      }
+    ],
+    "test": [
+      {
+        "id": "325ecfed07d50d496bff535e9e91d439d87e4501a02c94b5fa4d7efdd464469d",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\325ecfed07d50d496bff535e9e91d439d87e4501a02c94b5fa4d7efdd464469d.jpg",
+        "label": 0
+      },
+      {
+        "id": "63838fe62972b386c2f1043f4826a6acafb0dee661d1aceaaf8a13005aac8ef0",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\63838fe62972b386c2f1043f4826a6acafb0dee661d1aceaaf8a13005aac8ef0.jpg",
+        "label": 0
+      },
+      {
+        "id": "78935bb91b82040a3b2b504a64e1d480d336496a6f2f258abbfe281897a825b0",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\78935bb91b82040a3b2b504a64e1d480d336496a6f2f258abbfe281897a825b0.jpg",
+        "label": 0
+      },
+      {
+        "id": "bd4a6cecc1e17bb73b1fb378b5e9c2a2e742889768d10b0077c59cb0042689e8",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\bd4a6cecc1e17bb73b1fb378b5e9c2a2e742889768d10b0077c59cb0042689e8.jpg",
+        "label": 2
+      },
+      {
+        "id": "aeaf5084dab45b45b9c26f4f74080d7c3c9e79a634387cf91f2f10f235b22821",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\aeaf5084dab45b45b9c26f4f74080d7c3c9e79a634387cf91f2f10f235b22821.jpg",
+        "label": 1
+      },
+      {
+        "id": "3bdbfb5bbb9f24b07c168113015129ea96269efa30c876127a08de15a987181a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\3bdbfb5bbb9f24b07c168113015129ea96269efa30c876127a08de15a987181a.jpg",
+        "label": 2
+      },
+      {
+        "id": "bb85322977b1d5b1eb987bb526dc12140e451d1474e4576abbd07c664cfe2b0b",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\bb85322977b1d5b1eb987bb526dc12140e451d1474e4576abbd07c664cfe2b0b.jpg",
+        "label": 0
+      },
+      {
+        "id": "e63270773b8e68f3ca39cdc84775bea6cbcc0b80bbedeb02a14ed13b5a1a7c3d",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\e63270773b8e68f3ca39cdc84775bea6cbcc0b80bbedeb02a14ed13b5a1a7c3d.jpg",
+        "label": 0
+      },
+      {
+        "id": "f11fc5e1240c055d0e5c544ce13b5c78fd349a8f566f2b5621a172d88430e615",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\f11fc5e1240c055d0e5c544ce13b5c78fd349a8f566f2b5621a172d88430e615.jpg",
+        "label": 1
+      },
+      {
+        "id": "6fd5bd4865b33cc9fcb23e0e22891088f293da8790600a2d56fc3153812b340a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\6fd5bd4865b33cc9fcb23e0e22891088f293da8790600a2d56fc3153812b340a.jpg",
+        "label": 2
+      },
+      {
+        "id": "e7ac409cda99b323fa9d70f07902f2d88ceee90f3e2a920de0cccb931598cae1",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\e7ac409cda99b323fa9d70f07902f2d88ceee90f3e2a920de0cccb931598cae1.jpg",
+        "label": 0
+      },
+      {
+        "id": "8dfba92f6290687389fc1448623261dd7e0a2fd637c597004638eb4811766e8a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\8dfba92f6290687389fc1448623261dd7e0a2fd637c597004638eb4811766e8a.jpg",
+        "label": 1
+      },
+      {
+        "id": "ba408d5cef7f27cb76dd3bd35d9568125f22312b41b39d0b8009fbdaab3fe9e5",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\ba408d5cef7f27cb76dd3bd35d9568125f22312b41b39d0b8009fbdaab3fe9e5.jpg",
+        "label": 1
+      },
+      {
+        "id": "0cc53c9466451364cd190934222da30143d3d743cdd4c3df8e5c3b3373020b3e",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\0cc53c9466451364cd190934222da30143d3d743cdd4c3df8e5c3b3373020b3e.jpg",
+        "label": 0
+      },
+      {
+        "id": "d29c57386060cbf3281dadb50ec4399f34cb48abb35558d123e50ed733e892e1",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\d29c57386060cbf3281dadb50ec4399f34cb48abb35558d123e50ed733e892e1.jpg",
+        "label": 1
+      },
+      {
+        "id": "d8e2221c9f14556f48cc6a0c74da7f3194752b88698a4f3c94ca5a428db56ada",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\d8e2221c9f14556f48cc6a0c74da7f3194752b88698a4f3c94ca5a428db56ada.jpg",
+        "label": 1
+      },
+      {
+        "id": "3d04e042fbbe998a5afdffead28d3e512654ad5d59e1036d29a1a29dcabd35ba",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\3d04e042fbbe998a5afdffead28d3e512654ad5d59e1036d29a1a29dcabd35ba.jpg",
+        "label": 2
+      },
+      {
+        "id": "27da55a0cb737088033746e01b9d4102f6b360dfde2cc03763927286c0ddc3c2",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\27da55a0cb737088033746e01b9d4102f6b360dfde2cc03763927286c0ddc3c2.jpg",
+        "label": 0
+      },
+      {
+        "id": "b55704b9ce13efc50c7b111e8d943d1e222ca1a878cbb06d99b6e5c7659d6f46",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\b55704b9ce13efc50c7b111e8d943d1e222ca1a878cbb06d99b6e5c7659d6f46.jpg",
+        "label": 0
+      },
+      {
+        "id": "e0dea229d279453350cc4dfb989bb37a79f72d4f3f60b5d72c7d3d10715f4083",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\e0dea229d279453350cc4dfb989bb37a79f72d4f3f60b5d72c7d3d10715f4083.jpg",
+        "label": 2
+      },
+      {
+        "id": "f17d23fe66ab0292af378ff2a40ad255cc4a683097ea39d7a28131b6a82376d5",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\f17d23fe66ab0292af378ff2a40ad255cc4a683097ea39d7a28131b6a82376d5.jpg",
+        "label": 2
+      },
+      {
+        "id": "1aa92879a1265b585088fce50d109921af0a5d36993f72bcdfd0ddd460e9cadd",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\1aa92879a1265b585088fce50d109921af0a5d36993f72bcdfd0ddd460e9cadd.jpg",
+        "label": 2
+      },
+      {
+        "id": "24c20d3d91a0795bb6e7d6c16be82c1b53f98538a439d4418d555fcfb72e964e",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\24c20d3d91a0795bb6e7d6c16be82c1b53f98538a439d4418d555fcfb72e964e.jpg",
+        "label": 1
+      },
+      {
+        "id": "2e81dbc8d6f631fff644ef7890b4c15c2aff30692a0e92ea530ccac6377b51b0",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\2e81dbc8d6f631fff644ef7890b4c15c2aff30692a0e92ea530ccac6377b51b0.jpg",
+        "label": 2
+      },
+      {
+        "id": "2f59d32a28fb1134a2e66f6f79a15fd2a7e4ef7883c32b9288e91b2a04ecca48",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\2f59d32a28fb1134a2e66f6f79a15fd2a7e4ef7883c32b9288e91b2a04ecca48.jpg",
+        "label": 2
+      },
+      {
+        "id": "520786de35cd8246bf35a05feca05bc520d3b138e4380a5b575d044585eefc77",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\520786de35cd8246bf35a05feca05bc520d3b138e4380a5b575d044585eefc77.jpg",
+        "label": 2
+      },
+      {
+        "id": "4b7aa41e279b2f95159c90fb26bc486a115b9ce82e0066418873ad420519220d",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\4b7aa41e279b2f95159c90fb26bc486a115b9ce82e0066418873ad420519220d.jpg",
+        "label": 1
+      },
+      {
+        "id": "8da7869b9d1b24f7094d4469dfe09e8d0813446cda5118404124d3cb5da2840a",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\8da7869b9d1b24f7094d4469dfe09e8d0813446cda5118404124d3cb5da2840a.jpg",
+        "label": 0
+      },
+      {
+        "id": "209f14ec9d0b2431a7ea8bff6e1112e0ec29dcbc3ca767cbbd7bf585d4ab8f5f",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\209f14ec9d0b2431a7ea8bff6e1112e0ec29dcbc3ca767cbbd7bf585d4ab8f5f.jpg",
+        "label": 2
+      },
+      {
+        "id": "38f379783e9a9a0b25bf41bb957d2c6316a5545692057ea7e1df5053740685ea",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\38f379783e9a9a0b25bf41bb957d2c6316a5545692057ea7e1df5053740685ea.jpg",
+        "label": 0
+      },
+      {
+        "id": "c378093d6b1eca25c9a8f137042f570669fd69c5bc55f84275623b5397b45933",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\c378093d6b1eca25c9a8f137042f570669fd69c5bc55f84275623b5397b45933.jpg",
+        "label": 1
+      },
+      {
+        "id": "b9dec85a9b1a7672919d4e0d81742717ae84f3237c9380c2a092a6a24097b457",
+        "path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\beans_images\\test\\b9dec85a9b1a7672919d4e0d81742717ae84f3237c9380c2a092a6a24097b457.jpg",
+        "label": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,2562 @@
+[
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a blond woman in a blue shirt appears to wait for a ride",
+    "label": 1,
+    "probability_match": 0.5124536156654358,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a biker enjoys a coffee",
+    "label": 0,
+    "probability_match": 0.5162181854248047,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a blond woman is on the street hailing a taxi",
+    "label": 1,
+    "probability_match": 0.5146452784538269,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "dogsled rider pulled past flags on snowy hill",
+    "label": 0,
+    "probability_match": 0.5206314921379089,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a woman is signaling is to traffic as seen from behind",
+    "label": 1,
+    "probability_match": 0.5207492113113403,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man in a bright green shirt riding a bicycle in a paved courtyard carying a drink",
+    "label": 0,
+    "probability_match": 0.5162588357925415,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a woman with blonde hair wearing a blue tube top is waving on the side of the street",
+    "label": 1,
+    "probability_match": 0.5224140882492065,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a shirtless man and a woman sitting on a dock",
+    "label": 0,
+    "probability_match": 0.5160414576530457,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "the woman in the blue dress is holding out her arm at oncoming traffic",
+    "label": 1,
+    "probability_match": 0.5234968662261963,
+    "prediction": 1
+  },
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a boy eats with a spoon",
+    "label": 0,
+    "probability_match": 0.5153569579124451,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "a boy in his blue swim shorts at the beach",
+    "label": 1,
+    "probability_match": 0.5308244228363037,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two young children playing with sticks at the beach",
+    "label": 0,
+    "probability_match": 0.5312149524688721,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "a boy smiles for the camera at a beach",
+    "label": 1,
+    "probability_match": 0.540963351726532,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a blond woman in a blue shirt appears to wait for a ride",
+    "label": 0,
+    "probability_match": 0.5238870978355408,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "a young boy in swimming trunks is walking with his arms outstretched on the beach",
+    "label": 1,
+    "probability_match": 0.5308806896209717,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a large white dog lying on the floor",
+    "label": 0,
+    "probability_match": 0.5197961926460266,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "children playing on the beach",
+    "label": 1,
+    "probability_match": 0.5326394438743591,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people are standing in the snow preparing an ice fishing boat",
+    "label": 0,
+    "probability_match": 0.5258380174636841,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "the boy is playing on the shore of an ocean",
+    "label": 1,
+    "probability_match": 0.527549147605896,
+    "prediction": 1
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "two golfers look off into the distance with hands blocking the sun",
+    "label": 0,
+    "probability_match": 0.5229251384735107,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a lady and a man with no shirt sit on a dock",
+    "label": 1,
+    "probability_match": 0.5513225793838501,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "the girls is jumping into the air on the beach",
+    "label": 0,
+    "probability_match": 0.5482186079025269,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and a woman are sitting on a dock together",
+    "label": 1,
+    "probability_match": 0.5518237948417664,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy in glasses is wearing a red shirt",
+    "label": 0,
+    "probability_match": 0.5365564823150635,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and a woman sitting on a dock",
+    "label": 1,
+    "probability_match": 0.5521847605705261,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people in the snow put their gear in order",
+    "label": 0,
+    "probability_match": 0.541473925113678,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and woman sitting on a deck next to a lake",
+    "label": 1,
+    "probability_match": 0.539713978767395,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two young children playing with sticks at the beach",
+    "label": 0,
+    "probability_match": 0.5467250943183899,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a shirtless man and a woman sitting on a dock",
+    "label": 1,
+    "probability_match": 0.5520392060279846,
+    "prediction": 1
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a young woman in a blue shirt stands holding a young girl in a denim dress",
+    "label": 0,
+    "probability_match": 0.5389409065246582,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a closeup of a white dog that is laying its head on its paws",
+    "label": 1,
+    "probability_match": 0.5145561099052429,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "a man in yellow grimaces",
+    "label": 0,
+    "probability_match": 0.5157103538513184,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a large white dog lying on the floor",
+    "label": 1,
+    "probability_match": 0.5136902928352356,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a young woman in a blue shirt stands holding a young girl in a denim dress",
+    "label": 0,
+    "probability_match": 0.5167524814605713,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a white dog has its head on the ground",
+    "label": 1,
+    "probability_match": 0.5203198194503784,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a little boy is eating his food off of a spoon while sitting on a patio",
+    "label": 0,
+    "probability_match": 0.5095889568328857,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a white dog is resting its head on a tiled floor with its eyes open",
+    "label": 1,
+    "probability_match": 0.516295850276947,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a boy sitting in water",
+    "label": 0,
+    "probability_match": 0.5170508027076721,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a white dog rests its head on the patio bricks",
+    "label": 1,
+    "probability_match": 0.5108041763305664,
+    "prediction": 1
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy enjoys a rain shower",
+    "label": 0,
+    "probability_match": 0.5071947574615479,
+    "prediction": 1
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a boy with a toy gun",
+    "label": 1,
+    "probability_match": 0.4952792823314667,
+    "prediction": 0
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "two men looking into the distance on a golf course",
+    "label": 0,
+    "probability_match": 0.5018377900123596,
+    "prediction": 1
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a little boy in orange shorts playing with a toy",
+    "label": 1,
+    "probability_match": 0.49473416805267334,
+    "prediction": 0
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "a couple of people sit outdoors at a table with an umbrella and talk",
+    "label": 0,
+    "probability_match": 0.5022481679916382,
+    "prediction": 1
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a young boy with his foot outstretched aims a toy at the camera in front of a fireplace",
+    "label": 1,
+    "probability_match": 0.4942167103290558,
+    "prediction": 0
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a black and white dog walking through the grass with a long stick in his mouth",
+    "label": 0,
+    "probability_match": 0.4850701093673706,
+    "prediction": 0
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a young child plays with his new light up toy",
+    "label": 1,
+    "probability_match": 0.5039217472076416,
+    "prediction": 1
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "a small boy and girls are playing in the sand on the beach",
+    "label": 0,
+    "probability_match": 0.5049608945846558,
+    "prediction": 1
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "boy with toy gun pointed at the camera",
+    "label": 1,
+    "probability_match": 0.49525153636932373,
+    "prediction": 0
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a baby is holding a small black flag with a moon and a star on it",
+    "label": 0,
+    "probability_match": 0.5070911645889282,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog jumping to catch a rope toy",
+    "label": 1,
+    "probability_match": 0.5473234057426453,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "the man is mushing his dogs on a snow trail",
+    "label": 0,
+    "probability_match": 0.5247634649276733,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog playing fetch with a ball of rope",
+    "label": 1,
+    "probability_match": 0.536110520362854,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy in bathing trunks is standing under a water shower",
+    "label": 0,
+    "probability_match": 0.5263053178787231,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog pounces to get a rope toy",
+    "label": 1,
+    "probability_match": 0.5499976873397827,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog holds a stick in its mouth",
+    "label": 0,
+    "probability_match": 0.5061573386192322,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog running after his rope toy",
+    "label": 1,
+    "probability_match": 0.5532108545303345,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "the snowboarder is sitting down",
+    "label": 0,
+    "probability_match": 0.5381933450698853,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a large black dog is playing in a grassy yard",
+    "label": 1,
+    "probability_match": 0.5169625282287598,
+    "prediction": 1
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people are sitting at an outside picnic bench with an umbrella",
+    "label": 0,
+    "probability_match": 0.5304889678955078,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "a little tan dog with large ears running through the grass",
+    "label": 1,
+    "probability_match": 0.5341869592666626,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy dressed in soccer attire and holding his shoes getting out of a car",
+    "label": 0,
+    "probability_match": 0.5142537951469421,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "a playful dog is running through the grass",
+    "label": 1,
+    "probability_match": 0.5347914099693298,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people are standing in the snow preparing an ice fishing boat",
+    "label": 0,
+    "probability_match": 0.5209691524505615,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "a small dogs ears stick up as it runs in the grass",
+    "label": 1,
+    "probability_match": 0.5358307361602783,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a woman with holding a young girl playing with bubbles at a picnic",
+    "label": 0,
+    "probability_match": 0.5229563117027283,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "the small dog is running across the lawn",
+    "label": 1,
+    "probability_match": 0.5214712023735046,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "dogsled rider pulled past flags on snowy hill",
+    "label": 0,
+    "probability_match": 0.5425719022750854,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "this is a small beige dog running through a grassy field",
+    "label": 1,
+    "probability_match": 0.5255984663963318,
+    "prediction": 1
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog playing fetch with a ball of rope",
+    "label": 0,
+    "probability_match": 0.535982608795166,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a baby in a white garment holds a flag with crescent moon and star",
+    "label": 1,
+    "probability_match": 0.5055066347122192,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "the girls is jumping into the air on the beach",
+    "label": 0,
+    "probability_match": 0.5128685235977173,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a baby is holding a small black flag with a moon and a star on it",
+    "label": 1,
+    "probability_match": 0.5103792548179626,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a small child dressed in green is eating with a spoon",
+    "label": 0,
+    "probability_match": 0.5002124905586243,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a baby wearing a white gown waves a muslim flag",
+    "label": 1,
+    "probability_match": 0.5040197968482971,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "dogs pulling a sled in a sled race",
+    "label": 0,
+    "probability_match": 0.5009448528289795,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a little toddler dressed in white is smiling while a lady helps him wave a flag",
+    "label": 1,
+    "probability_match": 0.5032702684402466,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a lady holds a little girl who is trying to catch bubbles",
+    "label": 0,
+    "probability_match": 0.5065167546272278,
+    "prediction": 1
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "baby in white outfit holding black and white flag",
+    "label": 1,
+    "probability_match": 0.49852266907691956,
+    "prediction": 0
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "the boy in blue shorts is bouncing on the bed",
+    "label": 0,
+    "probability_match": 0.5000540018081665,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "a brown and white dog stands outside while it snows",
+    "label": 1,
+    "probability_match": 0.5314123034477234,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "tree in the foreground two men playing golf in the background",
+    "label": 0,
+    "probability_match": 0.527125358581543,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "a dog is looking at something near the water",
+    "label": 1,
+    "probability_match": 0.528343915939331,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three little blond girls two in blue one in pink play on a sunny beach",
+    "label": 0,
+    "probability_match": 0.541740357875824,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "a furry dog attempts to dry itself by shaking the water off its coat",
+    "label": 1,
+    "probability_match": 0.518172025680542,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "the boy is playing on the shore of an ocean",
+    "label": 0,
+    "probability_match": 0.5250704288482666,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "a white and brown dog shaking its self dry",
+    "label": 1,
+    "probability_match": 0.5141967535018921,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy is holding his nose and jumping off a diving board backwards into a lake",
+    "label": 0,
+    "probability_match": 0.5256569981575012,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "the large brown and white dog shakes off water",
+    "label": 1,
+    "probability_match": 0.531359076499939,
+    "prediction": 1
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a large black dog is playing in a grassy yard",
+    "label": 0,
+    "probability_match": 0.5254892706871033,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "a boy is jumping on a bed",
+    "label": 1,
+    "probability_match": 0.5332302451133728,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a little boy is eating his food off of a spoon while sitting on a patio",
+    "label": 0,
+    "probability_match": 0.5331246256828308,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "a boy jumped up from the green bed",
+    "label": 1,
+    "probability_match": 0.5312985777854919,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "busy intersection in the summer time in a city",
+    "label": 0,
+    "probability_match": 0.5306697487831116,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "a boy jumps from one bed to another",
+    "label": 1,
+    "probability_match": 0.5196384787559509,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a woman is holding a little girl who is trying to catch bubbles",
+    "label": 0,
+    "probability_match": 0.5360533595085144,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "a small child is jumping on a bed",
+    "label": 1,
+    "probability_match": 0.5318031907081604,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a young child plays with his new light up toy",
+    "label": 0,
+    "probability_match": 0.5498172044754028,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "the boy in blue shorts is bouncing on the bed",
+    "label": 1,
+    "probability_match": 0.5270679593086243,
+    "prediction": 1
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy in glasses is wearing a red shirt",
+    "label": 0,
+    "probability_match": 0.5240357518196106,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "a snowboarder sits on a slope with skiers and boarders nearby",
+    "label": 1,
+    "probability_match": 0.5217808485031128,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy in bathing trunks is standing under a water shower",
+    "label": 0,
+    "probability_match": 0.5241753458976746,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "a snowboarder takes a rest on the mountainside",
+    "label": 1,
+    "probability_match": 0.5087893605232239,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and woman sitting on a deck next to a lake",
+    "label": 0,
+    "probability_match": 0.5184714794158936,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "snowboarders sitting in the snow while skiers take the hill",
+    "label": 1,
+    "probability_match": 0.510525107383728,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "people in costume at a renaissance fair",
+    "label": 0,
+    "probability_match": 0.5148999094963074,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "the snowboarder is sitting down",
+    "label": 1,
+    "probability_match": 0.5215223431587219,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a young boy sitting on a water jet in a pool",
+    "label": 0,
+    "probability_match": 0.5184971690177917,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "two skiers stand two sit on slopes",
+    "label": 1,
+    "probability_match": 0.5201582908630371,
+    "prediction": 1
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "baby in white outfit holding black and white flag",
+    "label": 0,
+    "probability_match": 0.5203143358230591,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy dressed in soccer attire and holding his shoes getting out of a car",
+    "label": 1,
+    "probability_match": 0.5211610198020935,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two girls laughing outside in a yard",
+    "label": 0,
+    "probability_match": 0.5184873342514038,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy in a red soccer strip is holding his boots in his hand whilst stepping out of a car",
+    "label": 1,
+    "probability_match": 0.5206379890441895,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man in a bright green shirt and sunglasses is riding a bicycle through the streets whilst drinking a latte",
+    "label": 0,
+    "probability_match": 0.520959198474884,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy in glasses is wearing a red shirt",
+    "label": 1,
+    "probability_match": 0.5159370303153992,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "a snowboarder takes a rest on the mountainside",
+    "label": 0,
+    "probability_match": 0.5141046047210693,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a child getting out of the car wearing soccer shoes",
+    "label": 1,
+    "probability_match": 0.5293263792991638,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a baby wearing a white gown waves a muslim flag",
+    "label": 0,
+    "probability_match": 0.5256530046463013,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a young boy gets out of the van and prepares his shoes for wear during a soccer game",
+    "label": 1,
+    "probability_match": 0.5250841975212097,
+    "prediction": 1
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two children on the beach silhouetted by the setting sun",
+    "label": 0,
+    "probability_match": 0.5270686149597168,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three men are setting up a sledge on a snowy plain",
+    "label": 1,
+    "probability_match": 0.5120812058448792,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man in a bright green shirt riding a bicycle in a paved courtyard carying a drink",
+    "label": 0,
+    "probability_match": 0.5113020539283752,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three men loading items on a sled",
+    "label": 1,
+    "probability_match": 0.511828601360321,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people sit at an outdoor table in front of a building painted like the union jack",
+    "label": 0,
+    "probability_match": 0.5108799934387207,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people and a sled",
+    "label": 1,
+    "probability_match": 0.5161914825439453,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a large black dog is playing in a grassy yard",
+    "label": 0,
+    "probability_match": 0.5126565098762512,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people are standing in the snow preparing an ice fishing boat",
+    "label": 1,
+    "probability_match": 0.5117843151092529,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a little boy in orange shorts playing with a toy",
+    "label": 0,
+    "probability_match": 0.5224936604499817,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people in the snow put their gear in order",
+    "label": 1,
+    "probability_match": 0.5134857296943665,
+    "prediction": 1
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog pounces to get a rope toy",
+    "label": 0,
+    "probability_match": 0.5254626870155334,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "a man in yellow grimaces",
+    "label": 1,
+    "probability_match": 0.5205528140068054,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "a person is hanging upside down from power lines",
+    "label": 0,
+    "probability_match": 0.5146595239639282,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "a man wearing a yellow shirt with a dramatic look on his face",
+    "label": 1,
+    "probability_match": 0.5175694227218628,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy in a blue life jacket jumps off a board into the lake",
+    "label": 0,
+    "probability_match": 0.519578754901886,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "the man in the yellow t shirt is pulling a large grin on his face",
+    "label": 1,
+    "probability_match": 0.5173875093460083,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "a group of people in costume at a renaissance fair",
+    "label": 0,
+    "probability_match": 0.5207791328430176,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "there is a man wearing a yellow shirt and grimacing",
+    "label": 1,
+    "probability_match": 0.5236031413078308,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three men loading items on a sled",
+    "label": 0,
+    "probability_match": 0.5192634463310242,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "this man is smiling very big at the camera",
+    "label": 1,
+    "probability_match": 0.5128256678581238,
+    "prediction": 1
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people are standing in the snow preparing an ice fishing boat",
+    "label": 0,
+    "probability_match": 0.5101749300956726,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "a girl in blue is jumping on the shore as small waves approach her",
+    "label": 1,
+    "probability_match": 0.5158904790878296,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a group of different people are walking in all different directions in a city",
+    "label": 0,
+    "probability_match": 0.5330671668052673,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "a girl leaps into the air while standing by the ocean",
+    "label": 1,
+    "probability_match": 0.525172233581543,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "a baby in a white garment holds a flag with crescent moon and star",
+    "label": 0,
+    "probability_match": 0.5332043766975403,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "a young long haired girl on the beach is jumping in the air",
+    "label": 1,
+    "probability_match": 0.5188456177711487,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a blond woman in a blue shirt appears to wait for a ride",
+    "label": 0,
+    "probability_match": 0.526212215423584,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "the girl is running into the ocean from the shore",
+    "label": 1,
+    "probability_match": 0.5307673811912537,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "a white and brown dog shaking its self dry",
+    "label": 0,
+    "probability_match": 0.5206405520439148,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "the girls is jumping into the air on the beach",
+    "label": 1,
+    "probability_match": 0.5430798530578613,
+    "prediction": 1
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy is squinting while being sprayed with water from a flat ground surface",
+    "label": 0,
+    "probability_match": 0.5274876356124878,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a crowd of people walk down a busy sidewalk",
+    "label": 1,
+    "probability_match": 0.5266306400299072,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "this is a small beige dog running through a grassy field",
+    "label": 0,
+    "probability_match": 0.5324220061302185,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a group of different people are walking in all different directions in a city",
+    "label": 1,
+    "probability_match": 0.5324345827102661,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a young child plays with his new light up toy",
+    "label": 0,
+    "probability_match": 0.5427509546279907,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a group of people walking a city street in warm weather",
+    "label": 1,
+    "probability_match": 0.526506245136261,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a closeup of a white dog that is laying its head on its paws",
+    "label": 0,
+    "probability_match": 0.5211129188537598,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "busy intersection in the summer time in a city",
+    "label": 1,
+    "probability_match": 0.5302327871322632,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "the snowboarder is sitting down",
+    "label": 0,
+    "probability_match": 0.5267838835716248,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "people in summer clothes are walking on the sidewalk of a large city",
+    "label": 1,
+    "probability_match": 0.5347744822502136,
+    "prediction": 1
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three girls play in the sand",
+    "label": 0,
+    "probability_match": 0.5280244946479797,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two children are laughing in the grass",
+    "label": 1,
+    "probability_match": 0.4955204725265503,
+    "prediction": 0
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a large black dog is playing in a grassy yard",
+    "label": 0,
+    "probability_match": 0.5053015351295471,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two girls laughing outside in a yard",
+    "label": 1,
+    "probability_match": 0.5070767402648926,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a small boy is sitting in the water and water is splashing up through his legs",
+    "label": 0,
+    "probability_match": 0.5088819265365601,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two girls standing on grass face each other",
+    "label": 1,
+    "probability_match": 0.5088110566139221,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "a group of people in costume at a renaissance fair",
+    "label": 0,
+    "probability_match": 0.5074621438980103,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two young girls are playing and laughing in a green grassy yard",
+    "label": 1,
+    "probability_match": 0.5027830600738525,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "this is a small beige dog running through a grassy field",
+    "label": 0,
+    "probability_match": 0.5068359375,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two young girls playing together",
+    "label": 1,
+    "probability_match": 0.5112705230712891,
+    "prediction": 1
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman is taking a swing with a golf club",
+    "label": 0,
+    "probability_match": 0.5071039199829102,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a boy eats with a spoon",
+    "label": 1,
+    "probability_match": 0.517248809337616,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a boy in glasses is wearing a red shirt",
+    "label": 0,
+    "probability_match": 0.5226469039916992,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a little boy holds a spoon up to his mouth",
+    "label": 1,
+    "probability_match": 0.5009027719497681,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "two women and a child are sitting by a cart of arrows in front of a booth at a medieval fayre",
+    "label": 0,
+    "probability_match": 0.5210673213005066,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a little boy is eating his food off of a spoon while sitting on a patio",
+    "label": 1,
+    "probability_match": 0.521361231803894,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a lady holds a little girl who is trying to catch bubbles",
+    "label": 0,
+    "probability_match": 0.5283681750297546,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a small child dressed in green is eating with a spoon",
+    "label": 1,
+    "probability_match": 0.5168927907943726,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and a woman sitting on a dock",
+    "label": 0,
+    "probability_match": 0.5225024223327637,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a young child holds a spoon to its mouth while sitting in a chair",
+    "label": 1,
+    "probability_match": 0.5185257792472839,
+    "prediction": 1
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "baby in white outfit holding black and white flag",
+    "label": 0,
+    "probability_match": 0.5195686221122742,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a lady holds a little girl who is trying to catch bubbles",
+    "label": 1,
+    "probability_match": 0.5208809971809387,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "two skiers stand two sit on slopes",
+    "label": 0,
+    "probability_match": 0.5106436014175415,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a woman is holding a little girl who is trying to catch bubbles",
+    "label": 1,
+    "probability_match": 0.5209113359451294,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man in a bright green shirt and sunglasses is riding a bicycle through the streets whilst drinking a latte",
+    "label": 0,
+    "probability_match": 0.5138064026832581,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a woman with holding a young girl playing with bubbles at a picnic",
+    "label": 1,
+    "probability_match": 0.5209134817123413,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two young girls are playing and laughing in a green grassy yard",
+    "label": 0,
+    "probability_match": 0.510073721408844,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a young woman in a blue shirt stands holding a young girl in a denim dress",
+    "label": 1,
+    "probability_match": 0.5128381252288818,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a white dog is resting its head on a tiled floor with its eyes open",
+    "label": 0,
+    "probability_match": 0.513964056968689,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "there is a woman holding her baby daughter while the daughter claps",
+    "label": 1,
+    "probability_match": 0.5108214020729065,
+    "prediction": 1
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "a boy is jumping on a bed",
+    "label": 0,
+    "probability_match": 0.51565021276474,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three children are playing in sand near to the beach",
+    "label": 1,
+    "probability_match": 0.5222758054733276,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a group of different people are walking in all different directions in a city",
+    "label": 0,
+    "probability_match": 0.5176963210105896,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three children playing in sand at beach",
+    "label": 1,
+    "probability_match": 0.5311286449432373,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1096395242_fc69f0ae5a.jpg",
+    "text": "a young child plays with his new light up toy",
+    "label": 0,
+    "probability_match": 0.5210411548614502,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three girls play in the sand",
+    "label": 1,
+    "probability_match": 0.5208173394203186,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog trots across the ground with a large stick in his mouth",
+    "label": 0,
+    "probability_match": 0.49026980996131897,
+    "prediction": 0
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three little blond girls two in blue one in pink play on a sunny beach",
+    "label": 1,
+    "probability_match": 0.5246165990829468,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a biker enjoys a coffee",
+    "label": 0,
+    "probability_match": 0.5068390369415283,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three young girls dance on the beach in the sand",
+    "label": 1,
+    "probability_match": 0.5193776488304138,
+    "prediction": 1
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "two golfers look off into the distance with hands blocking the sun",
+    "label": 0,
+    "probability_match": 0.5081130266189575,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "a couple of people sit outdoors at a table with an umbrella and talk",
+    "label": 1,
+    "probability_match": 0.5166289210319519,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three men loading items on a sled",
+    "label": 0,
+    "probability_match": 0.5245698094367981,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people are sitting at an outside picnic bench with an umbrella",
+    "label": 1,
+    "probability_match": 0.5206170082092285,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "a person hanging from a telephone pole near the mountains",
+    "label": 0,
+    "probability_match": 0.5214822888374329,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people sit at an outdoor cafe",
+    "label": 1,
+    "probability_match": 0.5195114612579346,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1084040636_97d9633581.jpg",
+    "text": "a closeup of a white dog that is laying its head on its paws",
+    "label": 0,
+    "probability_match": 0.5184798240661621,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people sit at an outdoor table in front of a building painted like the union jack",
+    "label": 1,
+    "probability_match": 0.5189529061317444,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "a boy and a girl playing on the beach",
+    "label": 0,
+    "probability_match": 0.5203009843826294,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people sit at a picnic table outside of a building painted like a union jack",
+    "label": 1,
+    "probability_match": 0.5192623138427734,
+    "prediction": 1
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "snowboarders sitting in the snow while skiers take the hill",
+    "label": 0,
+    "probability_match": 0.524397611618042,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a biker enjoys a coffee",
+    "label": 1,
+    "probability_match": 0.5064828395843506,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "a group of people in costume at a renaissance fair",
+    "label": 0,
+    "probability_match": 0.5016505718231201,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man in a bright green shirt and sunglasses is riding a bicycle through the streets whilst drinking a latte",
+    "label": 1,
+    "probability_match": 0.5062480568885803,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a child getting out of the car wearing soccer shoes",
+    "label": 0,
+    "probability_match": 0.5030990242958069,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man in a bright green shirt riding a bicycle in a paved courtyard carying a drink",
+    "label": 1,
+    "probability_match": 0.505296528339386,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "three people sit at a picnic table outside of a building painted like a union jack",
+    "label": 0,
+    "probability_match": 0.5052948594093323,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man rides on his bike with one hand and holds a drink with the other",
+    "label": 1,
+    "probability_match": 0.5076260566711426,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "a young boy in swimming trunks is walking with his arms outstretched on the beach",
+    "label": 0,
+    "probability_match": 0.5132288336753845,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man riding a bike wearing a green shirt with a drink in his hand",
+    "label": 1,
+    "probability_match": 0.5054962635040283,
+    "prediction": 1
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy in a blue life jacket jumps off a board into the lake",
+    "label": 0,
+    "probability_match": 0.497684508562088,
+    "prediction": 0
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a black and white dog carrying a large stick",
+    "label": 1,
+    "probability_match": 0.5241363048553467,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "someone is suspended from electrical wires",
+    "label": 0,
+    "probability_match": 0.5219760537147522,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a black and white dog is carrying a stick in its mouth",
+    "label": 1,
+    "probability_match": 0.5280014276504517,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy wearing black swimming trunks is standing in a fountain",
+    "label": 0,
+    "probability_match": 0.5196459293365479,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a black and white dog walking through the grass with a long stick in his mouth",
+    "label": 1,
+    "probability_match": 0.5249587893486023,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two girls laughing outside in a yard",
+    "label": 0,
+    "probability_match": 0.5181920528411865,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog holds a stick in its mouth",
+    "label": 1,
+    "probability_match": 0.5278880000114441,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three people and a sled",
+    "label": 0,
+    "probability_match": 0.5219420790672302,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog trots across the ground with a large stick in his mouth",
+    "label": 1,
+    "probability_match": 0.5255337953567505,
+    "prediction": 1
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "dogs pulling a sled in a sled race",
+    "label": 0,
+    "probability_match": 0.5176175236701965,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "one man in red shirt and black pants with a man in white shirt and tan shorts golfing",
+    "label": 1,
+    "probability_match": 0.5182154178619385,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two children are laughing in the grass",
+    "label": 0,
+    "probability_match": 0.520470142364502,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "tree in the foreground two men playing golf in the background",
+    "label": 1,
+    "probability_match": 0.5144336819648743,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "a couple of people sit outdoors at a table with an umbrella and talk",
+    "label": 0,
+    "probability_match": 0.5213978290557861,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "two golfers are standing on the fairway looking off into the distance",
+    "label": 1,
+    "probability_match": 0.5297799706459045,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a crowd of people walk down a busy sidewalk",
+    "label": 0,
+    "probability_match": 0.523713231086731,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "two golfers look off into the distance with hands blocking the sun",
+    "label": 1,
+    "probability_match": 0.5212521553039551,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "1237985362_dbafc59280.jpg",
+    "text": "a woman is holding a little girl who is trying to catch bubbles",
+    "label": 0,
+    "probability_match": 0.5281344056129456,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "two men looking into the distance on a golf course",
+    "label": 1,
+    "probability_match": 0.5285911560058594,
+    "prediction": 1
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog trots across the ground with a large stick in his mouth",
+    "label": 0,
+    "probability_match": 0.5065158009529114,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a girl is getting ready to swing the club",
+    "label": 1,
+    "probability_match": 0.5077462196350098,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "the boy is playing on the shore of an ocean",
+    "label": 0,
+    "probability_match": 0.5083596110343933,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman in shorts and a blue sleeveless shirt leans over a golf club",
+    "label": 1,
+    "probability_match": 0.5155628323554993,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "the boy in blue shorts is bouncing on the bed",
+    "label": 0,
+    "probability_match": 0.5084410905838013,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman is taking a swing with a golf club",
+    "label": 1,
+    "probability_match": 0.5145606994628906,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "1262583859_653f1469a9.jpg",
+    "text": "a man riding a bike wearing a green shirt with a drink in his hand",
+    "label": 0,
+    "probability_match": 0.5083258152008057,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman wearing a blue shirt and hat with khaki shorts plays golf",
+    "label": 1,
+    "probability_match": 0.5072096586227417,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a blond woman in a blue shirt appears to wait for a ride",
+    "label": 0,
+    "probability_match": 0.5046800374984741,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman wearing blue begins a golf swing",
+    "label": 1,
+    "probability_match": 0.5147304534912109,
+    "prediction": 1
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and a woman sitting on a dock",
+    "label": 0,
+    "probability_match": 0.5151002407073975,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "a group of people in costume at a renaissance fair",
+    "label": 1,
+    "probability_match": 0.5066033005714417,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "a boy smiles for the camera at a beach",
+    "label": 0,
+    "probability_match": 0.5322502255439758,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "people in costume at a renaissance fair",
+    "label": 1,
+    "probability_match": 0.5070958137512207,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "113678030_87a6a6e42e.jpg",
+    "text": "a snowboarder sits on a slope with skiers and boarders nearby",
+    "label": 0,
+    "probability_match": 0.5113548040390015,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "two woman in colorful costumes look at a little girl wearing a brown vest",
+    "label": 1,
+    "probability_match": 0.5108891725540161,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "127488876_f2d2a89588.jpg",
+    "text": "one man in red shirt and black pants with a man in white shirt and tan shorts golfing",
+    "label": 0,
+    "probability_match": 0.5099117159843445,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "two women and a child are sitting by a cart of arrows in front of a booth at a medieval fayre",
+    "label": 1,
+    "probability_match": 0.506688117980957,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1220401002_3f44b1f3f7.jpg",
+    "text": "two young girls playing together",
+    "label": 0,
+    "probability_match": 0.5325550436973572,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "two women crouch near a small child at a medieval fair",
+    "label": 1,
+    "probability_match": 0.505721390247345,
+    "prediction": 1
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two children on the beach silhouetted by the setting sun",
+    "label": 0,
+    "probability_match": 0.508491575717926,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "a group of dogs pull a person on a dog sled up a hill",
+    "label": 1,
+    "probability_match": 0.516869843006134,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy is squinting while being sprayed with water from a flat ground surface",
+    "label": 0,
+    "probability_match": 0.5099814534187317,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "dogsled rider pulled past flags on snowy hill",
+    "label": 1,
+    "probability_match": 0.5243933796882629,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "two women crouch near a small child at a medieval fair",
+    "label": 0,
+    "probability_match": 0.5178884863853455,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "dogs pulling a sled in a sled race",
+    "label": 1,
+    "probability_match": 0.5117502808570862,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1258913059_07c613f7ff.jpg",
+    "text": "a couple of people sit outdoors at a table with an umbrella and talk",
+    "label": 0,
+    "probability_match": 0.5207464098930359,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "five sled dogs are pulling a person on a sled through the snow",
+    "label": 1,
+    "probability_match": 0.5062410831451416,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman wearing blue begins a golf swing",
+    "label": 0,
+    "probability_match": 0.5147926807403564,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1287073593_f3d2a62455.jpg",
+    "text": "the man is mushing his dogs on a snow trail",
+    "label": 1,
+    "probability_match": 0.5178619027137756,
+    "prediction": 1
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "text_image": "1174525839_7c1e6cfa86.jpg",
+    "text": "a young long haired girl on the beach is jumping in the air",
+    "label": 0,
+    "probability_match": 0.5039153099060059,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a boy sitting in water",
+    "label": 1,
+    "probability_match": 0.5261760354042053,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "a group of different people are walking in all different directions in a city",
+    "label": 0,
+    "probability_match": 0.5372216105461121,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a small boy is sitting in the water and water is splashing up through his legs",
+    "label": 1,
+    "probability_match": 0.5314573645591736,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1122944218_8eb3607403.jpg",
+    "text": "baby in white outfit holding black and white flag",
+    "label": 0,
+    "probability_match": 0.5384455919265747,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a young boy in a swimming suit sits in water",
+    "label": 1,
+    "probability_match": 0.5281265377998352,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "115684808_cb01227802.jpg",
+    "text": "three men loading items on a sled",
+    "label": 0,
+    "probability_match": 0.5331830978393555,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "a young boy sitting on a water jet in a pool",
+    "label": 1,
+    "probability_match": 0.5294184684753418,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three young girls dance on the beach in the sand",
+    "label": 0,
+    "probability_match": 0.5259012579917908,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1287475186_2dee85f1a5.jpg",
+    "text": "little boy sitting in water with a fountain coming up through his lap",
+    "label": 1,
+    "probability_match": 0.5320178866386414,
+    "prediction": 1
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "text_image": "1131932671_c8d17751b3.jpg",
+    "text": "a boy is jumping on a bed",
+    "label": 0,
+    "probability_match": 0.5320609211921692,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake",
+    "label": 1,
+    "probability_match": 0.5200459957122803,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog holds a stick in its mouth",
+    "label": 0,
+    "probability_match": 0.5018760561943054,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy diving backward off a pier in a large lake",
+    "label": 1,
+    "probability_match": 0.5239208936691284,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a child getting out of the car wearing soccer shoes",
+    "label": 0,
+    "probability_match": 0.5274122953414917,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy in a blue life jacket jumps into the water",
+    "label": 1,
+    "probability_match": 0.5225348472595215,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "114051287_dd85625a04.jpg",
+    "text": "a child getting out of the car wearing soccer shoes",
+    "label": 0,
+    "probability_match": 0.5274122953414917,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy in a blue life jacket jumps off a board into the lake",
+    "label": 1,
+    "probability_match": 0.5082288384437561,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1174629344_a2e1a2bdbf.jpg",
+    "text": "people in summer clothes are walking on the sidewalk of a large city",
+    "label": 0,
+    "probability_match": 0.5349004864692688,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1298295313_db1f4c6522.jpg",
+    "text": "a boy is holding his nose and jumping off a diving board backwards into a lake",
+    "label": 1,
+    "probability_match": 0.5195068120956421,
+    "prediction": 1
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a black dog playing fetch with a ball of rope",
+    "label": 0,
+    "probability_match": 0.5262978076934814,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "a person hanging from a telephone pole near the mountains",
+    "label": 1,
+    "probability_match": 0.5183455348014832,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a black and white dog carrying a large stick",
+    "label": 0,
+    "probability_match": 0.5197814106941223,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "a person is hanging in the air from the power lines",
+    "label": 1,
+    "probability_match": 0.5186063051223755,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "127490019_7c5c08cb11.jpg",
+    "text": "a woman is taking a swing with a golf club",
+    "label": 0,
+    "probability_match": 0.5271323919296265,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "a person is hanging upside down from power lines",
+    "label": 1,
+    "probability_match": 0.5209521055221558,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1167669558_87a8a467d6.jpg",
+    "text": "a man in yellow grimaces",
+    "label": 0,
+    "probability_match": 0.5191976428031921,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "person hanging upside down from poles",
+    "label": 1,
+    "probability_match": 0.5165490508079529,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1119015538_e8e796281e.jpg",
+    "text": "the small dog is running across the lawn",
+    "label": 0,
+    "probability_match": 0.5104796886444092,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1311388430_4ab0cd1a1f.jpg",
+    "text": "someone is suspended from electrical wires",
+    "label": 1,
+    "probability_match": 0.5215578675270081,
+    "prediction": 1
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "text_image": "1056338697_4f7d7ce270.jpg",
+    "text": "a woman with blonde hair wearing a blue tube top is waving on the side of the street",
+    "label": 0,
+    "probability_match": 0.5099036693572998,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy enjoys a rain shower",
+    "label": 1,
+    "probability_match": 0.5242486596107483,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a boy eats with a spoon",
+    "label": 0,
+    "probability_match": 0.5201560258865356,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy in bathing trunks is standing under a water shower",
+    "label": 1,
+    "probability_match": 0.5262066125869751,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "two women crouch near a small child at a medieval fair",
+    "label": 0,
+    "probability_match": 0.525215208530426,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy in swim trunks screams while being sprayed with water",
+    "label": 1,
+    "probability_match": 0.525233268737793,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1131800850_89c7ffd477.jpg",
+    "text": "a white and brown dog shaking its self dry",
+    "label": 0,
+    "probability_match": 0.5209376811981201,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy is squinting while being sprayed with water from a flat ground surface",
+    "label": 1,
+    "probability_match": 0.5175237059593201,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "106490881_5a2dd9b7bd.jpg",
+    "text": "a young boy in swimming trunks is walking with his arms outstretched on the beach",
+    "label": 0,
+    "probability_match": 0.5240299701690674,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1317292658_ba29330a0b.jpg",
+    "text": "a boy wearing black swimming trunks is standing in a fountain",
+    "label": 1,
+    "probability_match": 0.5160053372383118,
+    "prediction": 1
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "text_image": "1224851143_33bcdd299c.jpg",
+    "text": "a boy eats with a spoon",
+    "label": 0,
+    "probability_match": 0.5201560258865356,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "a boy and a girl playing on the beach",
+    "label": 1,
+    "probability_match": 0.5206682682037354,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1248940539_46d33ed487.jpg",
+    "text": "three children are playing in sand near to the beach",
+    "label": 0,
+    "probability_match": 0.5225532650947571,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "a small boy and girls are playing in the sand on the beach",
+    "label": 1,
+    "probability_match": 0.5197559595108032,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1082379191_ec1e53f996.jpg",
+    "text": "a man and a woman sitting on a dock",
+    "label": 0,
+    "probability_match": 0.5183714032173157,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two children one of which is holding a stick are standing on the beach as the sun begins to set",
+    "label": 1,
+    "probability_match": 0.5237028002738953,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1107246521_d16a476380.jpg",
+    "text": "a large black dog is playing in a grassy yard",
+    "label": 0,
+    "probability_match": 0.5156103372573853,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two children on the beach silhouetted by the setting sun",
+    "label": 1,
+    "probability_match": 0.512362003326416,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1267711451_e2a754b4f8.jpg",
+    "text": "a dog holds a stick in its mouth",
+    "label": 0,
+    "probability_match": 0.4998404085636139,
+    "prediction": 0
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1322323208_c7ecb742c6.jpg",
+    "text": "two young children playing with sticks at the beach",
+    "label": 1,
+    "probability_match": 0.5218217968940735,
+    "prediction": 1
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "text_image": "1282392036_5a0328eb86.jpg",
+    "text": "people in costume at a renaissance fair",
+    "label": 0,
+    "probability_match": 0.5183182954788208,
+    "prediction": 1
+  }
+]

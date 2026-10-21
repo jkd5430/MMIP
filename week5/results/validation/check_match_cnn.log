@@ -1,0 +1,3 @@
+Python: C:\Users\u1021\anaconda3\envs\allen_liver\python.exe | device: cuda:0
+inference resnet18-imagenet1k-v1: 1/1 images
+{'image': 'C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1056338697_4f7d7ce270.jpg', 'text': 'a blond woman in a blue shirt appears to wait for a ride', 'probability_match': 0.5611189603805542, 'prediction': 'match'}

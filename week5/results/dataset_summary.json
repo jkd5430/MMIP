@@ -1,0 +1,12 @@
+{
+  "beans": {
+    "train": 1034,
+    "validation": 133,
+    "test": 128
+  },
+  "flickr8k": {
+    "train": 6000,
+    "validation": 1000,
+    "test": 1000
+  }
+}

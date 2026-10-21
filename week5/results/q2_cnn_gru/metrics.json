@@ -1,0 +1,57 @@
+{
+  "epochs_completed": 5,
+  "best_epoch": 2,
+  "training_seconds": 85.74620139999999,
+  "trainable_parameters": 1629954,
+  "selection": "minimum validation loss",
+  "seed": 42,
+  "limit": null,
+  "epochs_requested": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "patience": 3,
+  "accuracy": 0.8305,
+  "macro_f1": 0.8299139361506551,
+  "auc": 0.9074117199999999,
+  "classification_report": {
+    "not_match": {
+      "precision": 0.8744618173578065,
+      "recall": 0.7718,
+      "f1-score": 0.8199298842026985,
+      "support": 5000
+    },
+    "match": {
+      "precision": 0.7957759083586898,
+      "recall": 0.8892,
+      "f1-score": 0.8398979880986116,
+      "support": 5000
+    },
+    "accuracy": 0.8305,
+    "macro avg": {
+      "precision": 0.8351188628582482,
+      "recall": 0.8305,
+      "f1-score": 0.8299139361506551,
+      "support": 10000
+    },
+    "weighted avg": {
+      "precision": 0.8351188628582482,
+      "recall": 0.8305,
+      "f1-score": 0.829913936150655,
+      "support": 10000
+    }
+  },
+  "confusion_matrix": [
+    [
+      3859,
+      1141
+    ],
+    [
+      554,
+      4446
+    ]
+  ],
+  "test_pairs": 10000,
+  "backbone": "cnn+GRU",
+  "backbone_frozen": true,
+  "caveat": "Random mismatches are weak negatives; a different image caption may still describe the query."
+}

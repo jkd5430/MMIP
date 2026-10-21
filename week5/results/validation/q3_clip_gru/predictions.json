@@ -1,0 +1,386 @@
+[
+  {
+    "image": "1056338697_4f7d7ce270.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1056338697_4f7d7ce270.jpg",
+    "references": [
+      "a blond woman in a blue shirt appears to wait for a ride",
+      "a blond woman is on the street hailing a taxi",
+      "a woman is signaling is to traffic as seen from behind",
+      "a woman with blonde hair wearing a blue tube top is waving on the side of the street",
+      "the woman in the blue dress is holding out her arm at oncoming traffic"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "106490881_5a2dd9b7bd.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\106490881_5a2dd9b7bd.jpg",
+    "references": [
+      "a boy in his blue swim shorts at the beach",
+      "a boy smiles for the camera at a beach",
+      "a young boy in swimming trunks is walking with his arms outstretched on the beach",
+      "children playing on the beach",
+      "the boy is playing on the shore of an ocean"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1082379191_ec1e53f996.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1082379191_ec1e53f996.jpg",
+    "references": [
+      "a lady and a man with no shirt sit on a dock",
+      "a man and a woman are sitting on a dock together",
+      "a man and a woman sitting on a dock",
+      "a man and woman sitting on a deck next to a lake",
+      "a shirtless man and a woman sitting on a dock"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1084040636_97d9633581.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1084040636_97d9633581.jpg",
+    "references": [
+      "a closeup of a white dog that is laying its head on its paws",
+      "a large white dog lying on the floor",
+      "a white dog has its head on the ground",
+      "a white dog is resting its head on a tiled floor with its eyes open",
+      "a white dog rests its head on the patio bricks"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1096395242_fc69f0ae5a.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1096395242_fc69f0ae5a.jpg",
+    "references": [
+      "a boy with a toy gun",
+      "a little boy in orange shorts playing with a toy",
+      "a young boy with his foot outstretched aims a toy at the camera in front of a fireplace",
+      "a young child plays with his new light up toy",
+      "boy with toy gun pointed at the camera"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1107246521_d16a476380.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1107246521_d16a476380.jpg",
+    "references": [
+      "a black dog jumping to catch a rope toy",
+      "a black dog playing fetch with a ball of rope",
+      "a black dog pounces to get a rope toy",
+      "a black dog running after his rope toy",
+      "a large black dog is playing in a grassy yard"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1119015538_e8e796281e.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1119015538_e8e796281e.jpg",
+    "references": [
+      "a little tan dog with large ears running through the grass",
+      "a playful dog is running through the grass",
+      "a small dogs ears stick up as it runs in the grass",
+      "the small dog is running across the lawn",
+      "this is a small beige dog running through a grassy field"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1122944218_8eb3607403.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1122944218_8eb3607403.jpg",
+    "references": [
+      "a baby in a white garment holds a flag with crescent moon and star",
+      "a baby is holding a small black flag with a moon and a star on it",
+      "a baby wearing a white gown waves a muslim flag",
+      "a little toddler dressed in white is smiling while a lady helps him wave a flag",
+      "baby in white outfit holding black and white flag"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "1131800850_89c7ffd477.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1131800850_89c7ffd477.jpg",
+    "references": [
+      "a brown and white dog stands outside while it snows",
+      "a dog is looking at something near the water",
+      "a furry dog attempts to dry itself by shaking the water off its coat",
+      "a white and brown dog shaking its self dry",
+      "the large brown and white dog shakes off water"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1131932671_c8d17751b3.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1131932671_c8d17751b3.jpg",
+    "references": [
+      "a boy is jumping on a bed",
+      "a boy jumped up from the green bed",
+      "a boy jumps from one bed to another",
+      "a small child is jumping on a bed",
+      "the boy in blue shorts is bouncing on the bed"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "113678030_87a6a6e42e.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\113678030_87a6a6e42e.jpg",
+    "references": [
+      "a snowboarder sits on a slope with skiers and boarders nearby",
+      "a snowboarder takes a rest on the mountainside",
+      "snowboarders sitting in the snow while skiers take the hill",
+      "the snowboarder is sitting down",
+      "two skiers stand two sit on slopes"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "114051287_dd85625a04.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\114051287_dd85625a04.jpg",
+    "references": [
+      "a boy dressed in soccer attire and holding his shoes getting out of a car",
+      "a boy in a red soccer strip is holding his boots in his hand whilst stepping out of a car",
+      "a boy in glasses is wearing a red shirt",
+      "a child getting out of the car wearing soccer shoes",
+      "a young boy gets out of the van and prepares his shoes for wear during a soccer game"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "115684808_cb01227802.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\115684808_cb01227802.jpg",
+    "references": [
+      "three men are setting up a sledge on a snowy plain",
+      "three men loading items on a sled",
+      "three people and a sled",
+      "three people are standing in the snow preparing an ice fishing boat",
+      "three people in the snow put their gear in order"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1167669558_87a8a467d6.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1167669558_87a8a467d6.jpg",
+    "references": [
+      "a man in yellow grimaces",
+      "a man wearing a yellow shirt with a dramatic look on his face",
+      "the man in the yellow t shirt is pulling a large grin on his face",
+      "there is a man wearing a yellow shirt and grimacing",
+      "this man is smiling very big at the camera"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "1174525839_7c1e6cfa86.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1174525839_7c1e6cfa86.jpg",
+    "references": [
+      "a girl in blue is jumping on the shore as small waves approach her",
+      "a girl leaps into the air while standing by the ocean",
+      "a young long haired girl on the beach is jumping in the air",
+      "the girl is running into the ocean from the shore",
+      "the girls is jumping into the air on the beach"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "1174629344_a2e1a2bdbf.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1174629344_a2e1a2bdbf.jpg",
+    "references": [
+      "a crowd of people walk down a busy sidewalk",
+      "a group of different people are walking in all different directions in a city",
+      "a group of people walking a city street in warm weather",
+      "busy intersection in the summer time in a city",
+      "people in summer clothes are walking on the sidewalk of a large city"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1220401002_3f44b1f3f7.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1220401002_3f44b1f3f7.jpg",
+    "references": [
+      "two children are laughing in the grass",
+      "two girls laughing outside in a yard",
+      "two girls standing on grass face each other",
+      "two young girls are playing and laughing in a green grassy yard",
+      "two young girls playing together"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1224851143_33bcdd299c.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1224851143_33bcdd299c.jpg",
+    "references": [
+      "a boy eats with a spoon",
+      "a little boy holds a spoon up to his mouth",
+      "a little boy is eating his food off of a spoon while sitting on a patio",
+      "a small child dressed in green is eating with a spoon",
+      "a young child holds a spoon to its mouth while sitting in a chair"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1237985362_dbafc59280.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1237985362_dbafc59280.jpg",
+    "references": [
+      "a lady holds a little girl who is trying to catch bubbles",
+      "a woman is holding a little girl who is trying to catch bubbles",
+      "a woman with holding a young girl playing with bubbles at a picnic",
+      "a young woman in a blue shirt stands holding a young girl in a denim dress",
+      "there is a woman holding her baby daughter while the daughter claps"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1248940539_46d33ed487.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1248940539_46d33ed487.jpg",
+    "references": [
+      "three children are playing in sand near to the beach",
+      "three children playing in sand at beach",
+      "three girls play in the sand",
+      "three little blond girls two in blue one in pink play on a sunny beach",
+      "three young girls dance on the beach in the sand"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1258913059_07c613f7ff.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1258913059_07c613f7ff.jpg",
+    "references": [
+      "a couple of people sit outdoors at a table with an umbrella and talk",
+      "three people are sitting at an outside picnic bench with an umbrella",
+      "three people sit at an outdoor cafe",
+      "three people sit at an outdoor table in front of a building painted like the union jack",
+      "three people sit at a picnic table outside of a building painted like a union jack"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "1262583859_653f1469a9.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1262583859_653f1469a9.jpg",
+    "references": [
+      "a biker enjoys a coffee",
+      "a man in a bright green shirt and sunglasses is riding a bicycle through the streets whilst drinking a latte",
+      "a man in a bright green shirt riding a bicycle in a paved courtyard carying a drink",
+      "a man rides on his bike with one hand and holds a drink with the other",
+      "a man riding a bike wearing a green shirt with a drink in his hand"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1267711451_e2a754b4f8.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1267711451_e2a754b4f8.jpg",
+    "references": [
+      "a black and white dog carrying a large stick",
+      "a black and white dog is carrying a stick in its mouth",
+      "a black and white dog walking through the grass with a long stick in his mouth",
+      "a dog holds a stick in its mouth",
+      "a dog trots across the ground with a large stick in his mouth"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "127488876_f2d2a89588.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\127488876_f2d2a89588.jpg",
+    "references": [
+      "one man in red shirt and black pants with a man in white shirt and tan shorts golfing",
+      "tree in the foreground two men playing golf in the background",
+      "two golfers are standing on the fairway looking off into the distance",
+      "two golfers look off into the distance with hands blocking the sun",
+      "two men looking into the distance on a golf course"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "127490019_7c5c08cb11.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\127490019_7c5c08cb11.jpg",
+    "references": [
+      "a girl is getting ready to swing the club",
+      "a woman in shorts and a blue sleeveless shirt leans over a golf club",
+      "a woman is taking a swing with a golf club",
+      "a woman wearing a blue shirt and hat with khaki shorts plays golf",
+      "a woman wearing blue begins a golf swing"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1282392036_5a0328eb86.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1282392036_5a0328eb86.jpg",
+    "references": [
+      "a group of people in costume at a renaissance fair",
+      "people in costume at a renaissance fair",
+      "two woman in colorful costumes look at a little girl wearing a brown vest",
+      "two women and a child are sitting by a cart of arrows in front of a booth at a medieval fayre",
+      "two women crouch near a small child at a medieval fair"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1287073593_f3d2a62455.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1287073593_f3d2a62455.jpg",
+    "references": [
+      "a group of dogs pull a person on a dog sled up a hill",
+      "dogsled rider pulled past flags on snowy hill",
+      "dogs pulling a sled in a sled race",
+      "five sled dogs are pulling a person on a sled through the snow",
+      "the man is mushing his dogs on a snow trail"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1287475186_2dee85f1a5.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1287475186_2dee85f1a5.jpg",
+    "references": [
+      "a boy sitting in water",
+      "a small boy is sitting in the water and water is splashing up through his legs",
+      "a young boy in a swimming suit sits in water",
+      "a young boy sitting on a water jet in a pool",
+      "little boy sitting in water with a fountain coming up through his lap"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1298295313_db1f4c6522.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1298295313_db1f4c6522.jpg",
+    "references": [
+      "a blonde boy wearing a blue life vest and camo shorts jumps off a diveboard into a blue lake",
+      "a boy diving backward off a pier in a large lake",
+      "a boy in a blue life jacket jumps into the water",
+      "a boy in a blue life jacket jumps off a board into the lake",
+      "a boy is holding his nose and jumping off a diving board backwards into a lake"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1311388430_4ab0cd1a1f.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1311388430_4ab0cd1a1f.jpg",
+    "references": [
+      "a person hanging from a telephone pole near the mountains",
+      "a person is hanging in the air from the power lines",
+      "a person is hanging upside down from power lines",
+      "person hanging upside down from poles",
+      "someone is suspended from electrical wires"
+    ],
+    "greedy": "a a a a dog is a dog"
+  },
+  {
+    "image": "1317292658_ba29330a0b.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1317292658_ba29330a0b.jpg",
+    "references": [
+      "a boy enjoys a rain shower",
+      "a boy in bathing trunks is standing under a water shower",
+      "a boy in swim trunks screams while being sprayed with water",
+      "a boy is squinting while being sprayed with water from a flat ground surface",
+      "a boy wearing black swimming trunks is standing in a fountain"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  },
+  {
+    "image": "1322323208_c7ecb742c6.jpg",
+    "image_path": "C:\\Users\\u1021\\Downloads\\多模態影像資料處理 MultiModality Image Processing MMIP\\week5\\data\\flickr8k\\Flicker8k_Dataset\\1322323208_c7ecb742c6.jpg",
+    "references": [
+      "a boy and a girl playing on the beach",
+      "a small boy and girls are playing in the sand on the beach",
+      "two children one of which is holding a stick are standing on the beach as the sun begins to set",
+      "two children on the beach silhouetted by the setting sun",
+      "two young children playing with sticks at the beach"
+    ],
+    "greedy": "a a a a a dog is a dog"
+  }
+]

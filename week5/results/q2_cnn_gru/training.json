@@ -1,0 +1,13 @@
+{
+  "epochs_completed": 5,
+  "best_epoch": 2,
+  "training_seconds": 85.74620139999999,
+  "trainable_parameters": 1629954,
+  "selection": "minimum validation loss",
+  "seed": 42,
+  "limit": null,
+  "epochs_requested": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "patience": 3
+}

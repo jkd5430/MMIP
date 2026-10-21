@@ -1,0 +1,54 @@
+Python: C:\Users\u1021\anaconda3\envs\allen_liver\python.exe | device: cuda:0
+
+===== q1_cnn =====
+Downloading: "https://download.pytorch.org/models/resnet18-f37072fd.pth" to C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\data\torch\hub\checkpoints\resnet18-f37072fd.pth
+Traceback (most recent call last):
+  File "week5\main.py", line 95, in <module>
+    main()
+  File "week5\main.py", line 80, in main
+    run(args, task.split('_')[1])
+  File "C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\code\retrieval.py", line 51, in run
+    features = {s: extract(rows, kind, args, 'beans_' + s) for s, rows in splits.items()}
+  File "C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\code\retrieval.py", line 51, in <dictcomp>
+    features = {s: extract(rows, kind, args, 'beans_' + s) for s, rows in splits.items()}
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torch\utils\_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\code\features.py", line 60, in extract
+    model, transform, _, identity = build_backbone(kind, args.device)
+  File "C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\code\features.py", line 17, in build_backbone
+    model = models.resnet18(weights=weights)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torchvision\models\_utils.py", line 142, in wrapper
+    return fn(*args, **kwargs)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torchvision\models\_utils.py", line 228, in inner_wrapper
+    return builder(*args, **kwargs)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torchvision\models\resnet.py", line 705, in resnet18
+    return _resnet(BasicBlock, [2, 2, 2, 2], weights, progress, **kwargs)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torchvision\models\resnet.py", line 301, in _resnet
+    model.load_state_dict(weights.get_state_dict(progress=progress, check_hash=True))
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torchvision\models\_api.py", line 90, in get_state_dict
+    return load_state_dict_from_url(self.url, *args, **kwargs)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torch\hub.py", line 765, in load_state_dict_from_url
+    download_url_to_file(url, cached_file, hash_prefix, progress=progress)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torch\hub.py", line 624, in download_url_to_file
+    u = urlopen(req)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\urllib\request.py", line 222, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\urllib\request.py", line 525, in open
+    response = self._open(req, data)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\urllib\request.py", line 542, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\urllib\request.py", line 502, in _call_chain
+    result = func(*args)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\urllib\request.py", line 1397, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\urllib\request.py", line 1323, in do_open
+    h = http_class(host, timeout=req.timeout, **http_conn_args)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\http\client.py", line 1395, in __init__
+    context = ssl._create_default_https_context()
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\ssl.py", line 750, in create_default_context
+    context.load_default_certs(purpose)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\ssl.py", line 574, in load_default_certs
+    self._load_windows_store_certs(storename, purpose)
+  File "C:\Users\u1021\anaconda3\envs\allen_liver\lib\ssl.py", line 566, in _load_windows_store_certs
+    self.load_verify_locations(cadata=certs)
+ssl.SSLError: [ASN1: NOT_ENOUGH_DATA] not enough data (_ssl.c:4194)

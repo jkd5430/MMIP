@@ -1,0 +1,6 @@
+{
+  "kind": "cnn",
+  "image_dim": 512,
+  "hidden": 64,
+  "length": 32
+}

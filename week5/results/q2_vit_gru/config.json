@@ -1,0 +1,6 @@
+{
+  "kind": "vit",
+  "image_dim": 768,
+  "hidden": 256,
+  "length": 32
+}

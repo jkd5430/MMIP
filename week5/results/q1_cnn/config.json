@@ -1,0 +1,5 @@
+{
+  "kind": "cnn",
+  "input_dim": 512,
+  "hidden": 256
+}

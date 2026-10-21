@@ -1,0 +1,9 @@
+{
+  "image_dim": 512,
+  "hidden": 64,
+  "length": 32,
+  "encoder": "openai/clip-vit-base-patch32",
+  "encoder_frozen": true,
+  "decoder": "GRU",
+  "decoding": "greedy"
+}

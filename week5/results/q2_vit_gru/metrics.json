@@ -1,0 +1,57 @@
+{
+  "epochs_completed": 5,
+  "best_epoch": 2,
+  "training_seconds": 86.20491820000001,
+  "trainable_parameters": 1695490,
+  "selection": "minimum validation loss",
+  "seed": 42,
+  "limit": null,
+  "epochs_requested": 10,
+  "batch_size": 32,
+  "learning_rate": 0.001,
+  "patience": 3,
+  "accuracy": 0.8743,
+  "macro_f1": 0.8742797225764544,
+  "auc": 0.9446304200000001,
+  "classification_report": {
+    "not_match": {
+      "precision": 0.8840549969218141,
+      "recall": 0.8616,
+      "f1-score": 0.8726830750531754,
+      "support": 5000
+    },
+    "match": {
+      "precision": 0.8650282816461868,
+      "recall": 0.887,
+      "f1-score": 0.8758763700997333,
+      "support": 5000
+    },
+    "accuracy": 0.8743,
+    "macro avg": {
+      "precision": 0.8745416392840004,
+      "recall": 0.8743000000000001,
+      "f1-score": 0.8742797225764544,
+      "support": 10000
+    },
+    "weighted avg": {
+      "precision": 0.8745416392840005,
+      "recall": 0.8743,
+      "f1-score": 0.8742797225764545,
+      "support": 10000
+    }
+  },
+  "confusion_matrix": [
+    [
+      4308,
+      692
+    ],
+    [
+      565,
+      4435
+    ]
+  ],
+  "test_pairs": 10000,
+  "backbone": "vit+GRU",
+  "backbone_frozen": true,
+  "caveat": "Random mismatches are weak negatives; a different image caption may still describe the query."
+}

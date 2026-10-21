@@ -1,0 +1,57 @@
+Python: C:\Users\u1021\anaconda3\envs\allen_liver\python.exe | device: cuda:0
+
+===== prepare =====
+{'beans': {'train': 32, 'validation': 32, 'test': 32}, 'flickr8k': {'train': 32, 'validation': 32, 'test': 32}}
+
+===== q1_cnn =====
+Downloading: https://download.pytorch.org/models/resnet18-f37072fd.pth
+beans_train resnet18-imagenet1k-v1: 8/32 images
+beans_validation resnet18-imagenet1k-v1: 8/32 images
+beans_test resnet18-imagenet1k-v1: 8/32 images
+{'epoch': 1, 'train_loss': 1.1041169166564941, 'train_accuracy': 0.40625, 'validation_loss': 1.1083301305770874, 'validation_accuracy': 0.34375}
+{'precision_at_k': 0.525, 'recall_at_k': 0.25913461538461535, 'hit_at_k': 0.9375, 'map_at_k': 0.4221875, 'k': 5, 'query_count': 32, 'gallery_count': 32, 'epochs_completed': 1, 'best_epoch': 1, 'training_seconds': 0.25277009999999933, 'trainable_parameters': 41539, 'selection': 'minimum validation loss', 'seed': 42, 'limit': 32, 'epochs_requested': 1, 'batch_size': 8, 'learning_rate': 0.001, 'patience': 3, 'backbone': 'cnn', 'task': 'class-relevance retrieval', 'relevance': 'same Beans disease/healthy class', 'gallery_split': 'train', 'query_split': 'test', 'training_objective': 'cross-entropy class-supervised retrieval embedding', 'backbone_frozen': True}
+
+===== q1_vit =====
+Downloading: https://download.pytorch.org/models/vit_b_16-c867db91.pth
+beans_train vit-b16-imagenet1k-v1: 8/32 images
+beans_validation vit-b16-imagenet1k-v1: 8/32 images
+beans_test vit-b16-imagenet1k-v1: 8/32 images
+{'epoch': 1, 'train_loss': 1.0950936377048492, 'train_accuracy': 0.40625, 'validation_loss': 1.090223878622055, 'validation_accuracy': 0.34375}
+{'precision_at_k': 0.475, 'recall_at_k': 0.22606837606837607, 'hit_at_k': 0.90625, 'map_at_k': 0.38260416666666663, 'k': 5, 'query_count': 32, 'gallery_count': 32, 'epochs_completed': 1, 'best_epoch': 1, 'training_seconds': 0.03302760000000404, 'trainable_parameters': 57923, 'selection': 'minimum validation loss', 'seed': 42, 'limit': 32, 'epochs_requested': 1, 'batch_size': 8, 'learning_rate': 0.001, 'patience': 3, 'backbone': 'vit', 'task': 'class-relevance retrieval', 'relevance': 'same Beans disease/healthy class', 'gallery_split': 'train', 'query_split': 'test', 'training_objective': 'cross-entropy class-supervised retrieval embedding', 'backbone_frozen': True}
+
+===== q2_cnn_gru =====
+flickr_train resnet18-imagenet1k-v1: 8/32 images
+flickr_validation resnet18-imagenet1k-v1: 8/32 images
+flickr_test resnet18-imagenet1k-v1: 8/32 images
+{'epoch': 1, 'train_loss': 0.7350478515028953, 'train_accuracy': 0.48125, 'validation_loss': 0.7074585303664207, 'validation_accuracy': 0.5}
+{'accuracy': 0.5, 'macro_f1': 0.3333333333333333, 'auc': 0.524140625}
+
+===== q2_vit_gru =====
+flickr_train vit-b16-imagenet1k-v1: 8/32 images
+flickr_validation vit-b16-imagenet1k-v1: 8/32 images
+flickr_test vit-b16-imagenet1k-v1: 8/32 images
+{'epoch': 1, 'train_loss': 0.7291004806756973, 'train_accuracy': 0.403125, 'validation_loss': 0.6944717034697533, 'validation_accuracy': 0.496875}
+{'accuracy': 0.49375, 'macro_f1': 0.35118898623279104, 'auc': 0.5127734375}
+
+===== q3 =====
+C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\torch\nn\modules\activation.py:1230: UserWarning: 1Torch was not compiled with flash attention. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\aten\src\ATen\native\transformers\cuda\sdp_utils.cpp:555.)
+  return torch._native_multi_head_attention(
+C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\data\huggingface\hub\models--openai--clip-vit-base-patch32. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+flickr_train openai/clip-vit-base-patch32: 8/32 images
+flickr_validation openai/clip-vit-base-patch32: 8/32 images
+flickr_test openai/clip-vit-base-patch32: 8/32 images
+{'epoch': 1, 'train_loss': 5.736266317698035, 'train_accuracy': 0.09108910891089109, 'validation_loss': 5.576931620297366, 'validation_accuracy': 0.13013698630136986}
+C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\data\huggingface\hub\models--distilbert-base-uncased. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+C:\Users\u1021\anaconda3\envs\allen_liver\lib\site-packages\transformers\tokenization_utils_base.py:1601: FutureWarning: `clean_up_tokenization_spaces` was not set. It will be set to `True` by default. This behavior will be depracted in transformers v4.45, and will be then set to `False` by default. For more details check this issue: https://github.com/huggingface/transformers/issues/31884
+  warnings.warn(
+Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+{'samples': 32, 'decoding': 'greedy', 'bleu_definition': 'NLTK corpus BLEU, scale 0-1, smoothing method1; all 5 references', 'bertscore_model': 'distilbert-base-uncased', 'bertscore_layers': 5, 'bertscore_rescale_with_baseline': False, 'bertscore_idf': False, 'bleu_1': 0.37772269954605225, 'bleu_2': 0.12691888851689062, 'bleu_3': 0.041544391291423774, 'bleu_4': 0.013912797116256209, 'bertscore_precision': 0.6905324459075928, 'bertscore_recall': 0.6946794390678406, 'bertscore_f1': 0.6906240582466125, 'bertscore_hash': 'distilbert-base-uncased_L5_no-idf_version=0.3.12(hug_trans=4.44.2)', 'bertscore_status': 'completed', 'epochs_completed': 1, 'best_epoch': 1, 'training_seconds': 0.1884730000000019, 'trainable_parameters': 144964, 'selection': 'minimum validation loss', 'seed': 42, 'limit': 32, 'epochs_requested': 1, 'batch_size': 8, 'learning_rate': 0.001, 'patience': 3, 'encoder': 'CLIP ViT-B/32 (frozen)', 'decoder': 'trained GRU'}
+
+===== compare =====
+[{'model': 'week5_clip_gru', 'samples': 32, 'decoding': 'greedy', 'bleu_definition': 'NLTK corpus BLEU, scale 0-1, smoothing method1; all 5 references', 'bertscore_model': 'distilbert-base-uncased', 'bertscore_layers': 5, 'bertscore_rescale_with_baseline': False, 'bertscore_idf': False, 'bleu_1': 0.37772269954605225, 'bleu_2': 0.12691888851689062, 'bleu_3': 0.041544391291423774, 'bleu_4': 0.013912797116256209, 'bertscore_precision': 0.6905324459075928, 'bertscore_recall': 0.6946794390678406, 'bertscore_f1': 0.6906240582466125, 'bertscore_hash': 'distilbert-base-uncased_L5_no-idf_version=0.3.12(hug_trans=4.44.2)', 'bertscore_status': 'completed'}, {'model': 'week4_mobilenetv2_gru', 'samples': 32, 'decoding': 'greedy', 'bleu_definition': 'NLTK corpus BLEU, scale 0-1, smoothing method1; all 5 references', 'bertscore_model': 'distilbert-base-uncased', 'bertscore_layers': 5, 'bertscore_rescale_with_baseline': False, 'bertscore_idf': False, 'bleu_1': 0.5435356200527705, 'bleu_2': 0.3816723879381783, 'bleu_3': 0.2688066902796733, 'bleu_4': 0.18747854423914123, 'bertscore_precision': 0.8506457805633545, 'bertscore_recall': 0.8460137248039246, 'bertscore_f1': 0.8454539775848389, 'bertscore_hash': 'distilbert-base-uncased_L5_no-idf_version=0.3.12(hug_trans=4.44.2)', 'bertscore_status': 'completed'}, {'model': 'week4_mobilenetv2_gru', 'samples': 32, 'decoding': 'beam3', 'bleu_definition': 'NLTK corpus BLEU, scale 0-1, smoothing method1; all 5 references', 'bertscore_model': 'distilbert-base-uncased', 'bertscore_layers': 5, 'bertscore_rescale_with_baseline': False, 'bertscore_idf': False, 'bleu_1': 0.5341246290801187, 'bleu_2': 0.3526148163884827, 'bleu_3': 0.24426588431903673, 'bleu_4': 0.15681689502639137, 'bertscore_precision': 0.8540182709693909, 'bertscore_recall': 0.8410285711288452, 'bertscore_f1': 0.8447697162628174, 'bertscore_hash': 'distilbert-base-uncased_L5_no-idf_version=0.3.12(hug_trans=4.44.2)', 'bertscore_status': 'completed'}]
+Report: C:\Users\u1021\Downloads\多模態影像資料處理 MultiModality Image Processing MMIP\week5\results\validation\report.md
